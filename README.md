@@ -194,10 +194,6 @@ Treating war as imminent can itself worsen the security dilemma. Effective deter
 
 ---
 
-# SEST 5001 — Strategy / Policy / Military Operations
-
-This section is reserved for SEST 5001 readings.
-
 # Lesson 3 — Liberalism and the Role of Institutions
 
 ## Robert O. Keohane — *After Hegemony: Cooperation and Discord in the World Political Economy*
@@ -338,6 +334,222 @@ Power is not limited to coercion or payment. The information revolution lowers b
 - What are the limits of liberalism in explaining international relations?
 
 ---
+
+# SEST 5001 — Strategy / Policy / Military Operations
+
+This section is reserved for SEST 5001 readings.
+
+SEST 5001 — Lesson 3: The Utility of Force: Clausewitz and Jomini
+
+Required Reading
+
+1. Carl von Clausewitz — On War
+
+Edition: Trans. and eds. Peter Paret and Michael Howard, Princeton University Press, 1976.
+
+Assigned sections:
+
+* Book 1: pp. 75–123
+* Book 2: pp. 127–132
+* Book 3: pp. 177–185
+* Book 6: pp. 479–483
+* Book 8: pp. 595–600
+* Book 8: pp. 605–610
+
+Readable Howard/Paret text:
+https://studylib.net/doc/28165383/clausewitz-what-is-war
+
+JSTOR edition:
+https://www.jstor.org/stable/j.ctt7svzz
+
+Important: The syllabus specifically requires the Howard/Paret translation. Do not substitute the older J. J. Graham translation.
+
+⸻
+
+2. Beatrice Heuser — “Clausewitz’s Ideas of Strategy and Victory”
+
+In Clausewitz in the Twenty-First Century, eds. Hew Strachan and Andreas Herberg-Rothe, Oxford University Press, 2007.
+
+Assigned: pp. 138–162
+
+Oxford chapter page:
+https://academic.oup.com/book/3878/chapter-abstract/145405199
+
+Google Books:
+https://books.google.com/books?id=-KQSDAAAQBAJ
+
+Access note: I have not yet verified a completely open full-text copy of this exact chapter. The Oxford page provides the abstract and chapter information.
+
+⸻
+
+3. Edward J. Villacres & Christopher Bassford — “Reclaiming the Clausewitzian Trinity”
+
+Parameters 25, no. 3 (Autumn 1995).
+
+Assigned: pp. 9–19
+
+U.S. Army War College:
+https://press.armywarcollege.edu/parameters/vol25/iss1/9/
+
+Readable HTML:
+https://www.clausewitzstudies.org/readings/Bassford/Trinity/TRININTR.htm
+
+⸻
+
+4. Antoine-Henri Jomini — The Art of War
+
+Trans. G. H. Mendell and W. P. Craighill.
+
+Assigned sections:
+
+* pp. 37–40
+* pp. 48–50
+* pp. 70–75
+* pp. 100–102
+* pp. 151–160
+* pp. 187–189
+
+Project Gutenberg — full text:
+https://www.gutenberg.org/ebooks/13549
+
+Alternate browser reader:
+https://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=13549
+
+The pagination may differ from the 2020 reprint assigned in the syllabus, but this is the same Mendell/Craighill translation.
+
+⸻
+
+5. Antulio J. Echevarria II — “Jomini, Modern War, and Strategy: The Triumph of the Essential”
+
+In Hal Brands, ed., The New Makers of Modern Strategy: From the Ancient World to the Digital Age, Princeton University Press, 2023.
+
+Assigned: pp. 145–168
+
+Readable full-text HTML copy of the book:
+https://dokumen.pub/the-new-makers-of-modern-strategy-from-the-ancient-world-to-the-digital-age-9780691226729.html
+
+Use Ctrl+F / Find on Page for:
+
+Jomini, Modern War, and Strategy: The Triumph of the Essential
+
+Official chapter page:
+https://www.degruyterbrill.com/document/doi/10.1515/9780691226729-009/html
+
+⸻
+
+Recommended Reading
+
+Peter Paret — “Clausewitz”
+
+In Makers of Modern Strategy: From Machiavelli to the Nuclear Age, 1986.
+
+Assigned: pp. 186–213
+
+Readable full-text HTML:
+https://dokumen.pub/makers-of-modern-strategy-from-machiavelli-to-the-nuclear-age-9781400835461.html
+
+Use Ctrl+F for:
+
+7. Clausewitz
+
+⸻
+
+Hew Strachan — “The Elusive Meaning and Enduring Relevance of Clausewitz”
+
+In The New Makers of Modern Strategy, 2023.
+
+Assigned: pp. 116–144
+
+Readable full-text HTML:
+https://dokumen.pub/the-new-makers-of-modern-strategy-from-the-ancient-world-to-the-digital-age-9780691226729.html
+
+Use Ctrl+F for:
+
+The Elusive Meaning and Enduring Relevance of Clausewitz
+
+⸻
+
+Vanya Eftimova Bellinger — Marie von Clausewitz: The Woman Behind the Making of On War
+
+Assigned: pp. 219–237
+
+Readable HTML copy:
+https://dokumen.pub/marie-von-clausewitz-the-woman-behind-the-making-of-on-war-9780190225438-0190225432.html
+
+Google Books:
+https://books.google.com/books?id=h4h2CgAAQBAJ
+
+⸻
+
+Edward N. Luttwak — Strategy: The Logic of War and Peace
+
+Revised and Enlarged Edition, 2001.
+
+Assigned: pp. 1–31
+
+Readable HTML copy:
+https://dokumen.pub/strategy-the-logic-of-war-and-peace-revised-0674007034-9780674007031.html
+
+JSTOR:
+https://www.jstor.org/stable/j.ctv1c7zfsc
+
+⸻
+
+Alan Beyerchen — “Clausewitz, Nonlinearity, and the Unpredictability of War”
+
+International Security 17, no. 3 (Winter 1992/93).
+
+Assigned: pp. 59–90
+
+Full text:
+https://www.clausewitzstudies.org/item/Beyerchen-ClausewitzNonlinearityAndTheUnpredictabilityOfWar.htm
+
+⸻
+
+J. Furman Daniel III — “The Core Concepts of On War: Clausewitz’s Four Critical Insights”
+
+In Restoring Clausewitz: A Critical Companion to On War, Cambria Press, 2026.
+
+Assigned: pp. 139–162
+
+Publisher page:
+https://www.cambriapress.com/RestoringClausewitz/
+
+Access note: I have not yet verified a free full-text copy of this new 2026 chapter.
+
+⸻
+
+William Olson — “The Continuing Irrelevance of Clausewitz”
+
+Small Wars Journal, July 26, 2013.
+
+Readable mirror:
+https://maxoki161.blogspot.com/2013/07/?m=0
+
+Search within the page for:
+
+The Continuing Irrelevance of Clausewitz
+
+⸻
+
+Lesson 3 Discussion Questions
+
+* What are the key characteristics of war as Clausewitz understands it? Is it a rational, analytical process? If not, how does Clausewitz suggest it be managed?
+* Think about the Clausewitzian trinity as Villacres and Bassford describe it. Apply it to a war of your choice. Does the trinity produce a deeper understanding of the conflict?
+* What are the timeless aspects of war versus the shifting characteristics of warfare?
+* How does Clausewitz differentiate between the inherent nature and character of war, and why is the distinction important?
+* What are Clausewitz’s concepts of fog and friction, and how do they affect strategy and military decision-making?
+* How are Clausewitz and Jomini different? How does each understand the role of scientific analysis in war?
+
+⸻
+
+Suggested Reading Order
+
+1. Clausewitz — assigned excerpts
+2. Villacres & Bassford — “Reclaiming the Clausewitzian Trinity”
+3. Heuser — “Clausewitz’s Ideas of Strategy and Victory”
+4. Jomini — assigned excerpts
+5. Echevarria — “Jomini, Modern War, and Strategy”
 
 # Course Portal Structure
 
