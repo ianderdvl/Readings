@@ -551,6 +551,466 @@ Suggested Reading Order
 4. Jomini — assigned excerpts
 5. Echevarria — “Jomini, Modern War, and Strategy”
 
+SEST 5001 — Lesson 4: The Political-Military Nexus
+
+The Theory and Practice of Civil-Military Relations
+
+Lesson Overview
+
+Civil-military relations examines the interaction among civilian political leaders, the military, and the public.
+
+The central question for this lesson is how democracies maintain civilian control of the military while still drawing effectively on military expertise when formulating and executing strategy.
+
+The core theoretical dispute is:
+
+* Samuel Huntington — Objective Control: maximize military professionalism by maintaining relatively separate civilian and military spheres. Civilians determine political objectives; professional military officers exercise expertise in the military sphere while remaining politically neutral and subordinate.
+* Eliot Cohen — Unequal Dialogue: rejects a rigid separation between political and military spheres. Civilian and military leaders should engage in continuous, candid debate over strategy and military operations, but the dialogue remains unequal because elected civilian leaders always possess final decision authority.
+* Risa Brooks — Critique of Huntington: argues that the very norms intended to produce an apolitical, professional military can sometimes weaken civilian oversight, encourage political behavior, and separate tactical/operational success from strategic political success.
+
+Central tension:
+How much autonomy should military professionals possess, and how deeply should civilian leaders involve themselves in military decisions?
+
+⸻
+
+Required Reading
+
+1. Jessica D. Blankshain — “A Primer on U.S. Civil-Military Relations for National Security Practitioners”
+
+Wild Blue Yonder, July 6, 2020.
+
+Assigned: pp. 1–30
+
+Full open-access PDF
+
+https://www.airuniversity.af.edu/Portals/10/Wild-Blue-Yonder/Site-Assets/PDFs/WBY%20-%206%20July%202020.pdf
+
+Alternate Defense Department PDF
+
+https://media.defense.gov/2020/Jul/07/2002449936/-1/-1/1/BLANKSHAIN.PDF
+
+Brief Synopsis
+
+Blankshain provides the conceptual foundation for the lesson. She frames American civil-military relations as interactions among three actors:
+
+1. Civilian government
+2. The military
+3. The civilian public
+
+The fundamental democratic problem is how civilians maintain control over an organization powerful enough to defend the state while relying on that organization’s specialized expertise.
+
+She introduces major debates over civilian control, military advice, professionalism, political activity, public trust, and the boundaries between military and civilian responsibilities.
+
+Memory hook:
+Civil-military relations is a triangle: government ↔ military ↔ public.
+
+⸻
+
+2. Samuel P. Huntington — The Soldier and the State
+
+The Soldier and the State: The Theory and Politics of Civil-Military Relations, Harvard University Press.
+
+Assigned: pp. 59–97
+
+These pages encompass:
+
+* Chapter 3: “The Military Mind: Conservative Realism of the Professional Military Ethic” — begins p. 59
+* Chapter 4: “Power, Professionalism, and Ideology: Civil-Military Relations in Theory” — begins p. 80
+
+Full readable HTML text
+
+https://dokumen.pub/the-soldier-and-the-state-the-theory-and-politics-of-civil-military-relations-9780674817357.html
+
+Use Find on Page for:
+
+The Military Mind
+
+and then:
+
+Power, Professionalism, and Ideology
+
+Internet Archive scan
+
+https://archive.org/details/soldierstate00hunt
+
+Brief Synopsis
+
+Huntington argues that an effective military should constitute a distinct professional sphere defined by:
+
+* expertise,
+* responsibility,
+* corporateness,
+* political neutrality,
+* and subordination to civilian authority.
+
+His central concept is objective civilian control.
+
+Rather than civilians constantly interfering in military affairs, civilian leaders should maximize military professionalism and grant the officer corps substantial autonomy within its area of expertise.
+
+The paradox is:
+
+Give the military professional autonomy precisely so that it remains politically subordinate.
+
+Huntington contrasts this with subjective control, in which civilian political groups try to control the military by making it resemble or serve their own political interests.
+
+Memory hook:
+Huntington: separate the spheres → professionalize the military → preserve civilian control.
+
+⸻
+
+3. Eliot A. Cohen — Supreme Command: Soldiers, Statesmen, and Leadership in Wartime
+
+Anchor / Free Press, 2002.
+
+Assigned:
+
+* pp. 1–52
+* pp. 208–224
+* pp. 241–264
+
+Page numbering varies somewhat by edition. When necessary, use the chapter headings below rather than relying exclusively on page numbers.
+
+Assigned sections
+
+“The Soldier and the Statesman”
+
+Begins p. 1.
+
+“Lincoln Sends a Letter”
+
+Begins p. 15.
+
+“The Unequal Dialogue”
+
+Begins p. 208.
+
+Appendix: “The Theory of Civilian Control”
+
+Location varies by edition; the syllabus assigns pp. 241–264.
+
+Internet Archive / Open Library copy
+
+https://archive.org/details/supremecommandso0000cohe
+
+Open Library record
+
+https://openlibrary.org/books/OL8362776M/Supreme_Command
+
+Google Books preview
+
+https://books.google.com/books?id=E3rl30TO2CAC
+
+Brief Synopsis
+
+Cohen attacks what he calls the “normal theory” of civil-military relations: civilians determine political objectives and then leave military professionals alone to determine how to fight.
+
+His historical cases—beginning here with Abraham Lincoln—suggest that successful wartime political leaders often probe, question, challenge, pressure, and sometimes overrule their generals.
+
+Cohen’s alternative is the unequal dialogue:
+
+* military officers provide expertise and candid professional advice;
+* civilian leaders continually interrogate military assumptions and options;
+* disagreement is legitimate and useful;
+* but civilians always retain final authority.
+
+Civilian interference is therefore not necessarily pathological. It may be essential because military operations and political objectives cannot be neatly separated in war.
+
+Memory hook:
+Cohen: argue constantly—but civilians decide.
+
+⸻
+
+4. Risa Brooks — “Paradoxes of Professionalism: Rethinking Civil-Military Relations in the United States”
+
+International Security 44, no. 4 (Spring 2020): 7–44.
+
+Syllabus note: the syllabus appears to print the issue as “44, no. 49.” The published article is volume 44, issue 4.
+
+Free full-text MIT Press article
+
+https://direct.mit.edu/isec/article/44/4/7/12253/Paradoxes-of-Professionalism-Rethinking-Civil
+
+Belfer Center page / download
+
+https://www.belfercenter.org/publication/paradoxes-professionalism-rethinking-civil-military-relations-united-states
+
+Brief Synopsis
+
+Brooks directly challenges the Huntingtonian model.
+
+She identifies three paradoxes in the prevailing American concept of military professionalism:
+
+1. Norms intended to keep the military apolitical can actually enable political behavior.
+2. Norms intended to affirm civilian authority can weaken civilians’ practical ability to oversee military activity.
+3. Military professionalism can improve tactical and operational effectiveness while simultaneously harming strategic effectiveness.
+
+Her third point is especially important for this course.
+
+If military officers view operations as belonging exclusively to their professional sphere, they can achieve their immediate military objectives without continually asking whether those actions are producing the desired political outcome.
+
+That recreates the problem from earlier lessons:
+
+Tactical success ≠ strategic success.
+
+Brooks therefore argues that political and military considerations are often too intertwined to maintain Huntington’s clean division of labor.
+
+Memory hook:
+Huntington’s wall protects professionalism—but Brooks argues the same wall can obstruct strategy.
+
+⸻
+
+Recommended Reading
+
+1. “To Support and Defend: Principles of Civilian Control and Best Practices of Civil-Military Relations”
+
+Open Letter, War on the Rocks, September 6, 2022.
+
+Full open-access text
+
+https://warontherocks.com/to-support-and-defend-principles-of-civilian-control-and-best-practices-of-civil-military-relations/
+
+Brief Synopsis
+
+A bipartisan group of former senior civilian and military leaders lays out practical norms for healthy American civil-military relations.
+
+Core principles include:
+
+* civilian control is fundamental to democracy;
+* military personnel serve the Constitution rather than an individual leader;
+* civilian control operates across the constitutional system;
+* military advice should be candid;
+* elected officials possess decision authority;
+* uniformed personnel should avoid partisan political behavior.
+
+Useful as the practical/normative counterpart to the theoretical Huntington–Cohen debate.
+
+⸻
+
+2. Risa Brooks, Jim Golby & Heidi Urben — “Crisis of Command: America’s Broken Civil-Military Relationship Imperils National Security”
+
+Foreign Affairs 100, no. 3 (2021): 64–75.
+
+JSTOR article
+
+https://www.jstor.org/stable/27121279
+
+Foreign Affairs author/article route
+
+https://www.foreignaffairs.com/authors/jim-golby
+
+Access Note
+
+I have not verified a reliably unrestricted full-text copy outside Foreign Affairs/JSTOR. Those platforms may require login or subscription access.
+
+Brief Synopsis
+
+Brooks, Golby, and Urben argue that contemporary U.S. civil-military problems extend beyond individual presidents or generals.
+
+Political polarization, public reverence for the military, military involvement in partisan politics, and weak civilian defense expertise have damaged the relationship.
+
+Their concern is not simply military insubordination. It is a broader erosion of the norms and institutions required for productive civilian control and strategic dialogue.
+
+⸻
+
+3. Todd S. Sechser — “Are Soldiers Less War-Prone than Statesmen?”
+
+Journal of Conflict Resolution 48, no. 5 (2004): 746–774.
+
+Author-hosted article page
+
+https://uva.theopenscholar.com/todd-sechser/publications/are-soldiers-less-war-prone-statesmen
+
+Public PDF mirror
+
+https://citeseerx.ist.psu.edu/document?doi=e7817132a22e7d087e479314927dfa4f69e899e8&repid=rep1&type=pdf
+
+Brief Synopsis
+
+Sechser tests the common belief that professional soldiers are naturally more cautious about using military force than civilians.
+
+His quantitative analysis challenges that assumption.
+
+States with strong civilian control are less likely to initiate militarized conflicts than states in which militaries exercise greater political control.
+
+The implication is important:
+
+Military restraint may result less from some inherent “military mind” and more from the institutional structure of civilian oversight.
+
+⸻
+
+4. Richard K. Betts — “Military Advice and the Use of Force”
+
+Chapter 1 of Soldiers, Statesmen, and Cold War Crises, Columbia University Press, 1991.
+
+Assigned: pp. 3–15
+
+Google Books preview
+
+https://books.google.com/books?id=qDDfAAAAMAAJ
+
+Publisher page
+
+https://cup.columbia.edu/book/soldiers-statesmen-and-cold-war-crises/9780231074698/
+
+Access Note
+
+I could not verify an unrestricted full-text copy of the assigned chapter.
+
+Brief Synopsis
+
+Betts examines whether military advisers systematically differ from civilian policymakers in their willingness to recommend force.
+
+His broader research finds that military and civilian officials both make serious errors and that military advice is not consistently more aggressive or more cautious.
+
+The useful question is therefore not:
+
+“Who is naturally wiser, civilians or soldiers?”
+
+but:
+
+“What institutional process produces the best strategic decisions from their competing expertise?”
+
+⸻
+
+5. Risa Brooks — “Integrating the Civil-Military Relations Subfield”
+
+Annual Review of Political Science 22 (2019): 379–398.
+
+Official article page
+
+https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-060518-025407
+
+SSRN record
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3394079
+
+Brief Synopsis
+
+Brooks argues that civil-military relations scholarship has become unnecessarily fragmented across:
+
+* American politics,
+* comparative politics,
+* international relations,
+* regime types,
+* geographic regions,
+* normative questions,
+* and empirical questions.
+
+She proposes integrating these literatures so that questions of civilian control can be connected to subjects such as military effectiveness, democratic erosion, coups, war, and political violence.
+
+Useful mainly as a map of the academic field.
+
+⸻
+
+6. David Pion-Berlin & Danijela Dudley — “Civil-Military Relations: What Is the State of the Field?”
+
+In Handbook of Military Sciences, Springer.
+
+Assigned: pp. 1–18
+
+Springer open-access chapter
+
+https://link.springer.com/referencework/10.1007/978-3-030-02866-4
+
+Find:
+
+Civil-Military Relations: What Is the State of the Field
+
+ResearchGate full-text copy
+
+https://www.researchgate.net/publication/344165260_Civil-military_relations_what_is_the_state_of_the_field
+
+Brief Synopsis
+
+A broad survey of contemporary civil-military relations scholarship.
+
+The authors examine how the field has moved beyond the traditional question of preventing military coups toward broader questions including:
+
+* democratic civilian control,
+* military political influence,
+* military effectiveness,
+* defense policymaking,
+* authoritarian regimes,
+* and relationships between military institutions and society.
+
+⸻
+
+7. Alice Hunt Friend & Mara Karlin — “Towards a Concept of Good Civilian Guidance”
+
+War on the Rocks, May 29, 2020.
+
+Full open-access text
+
+https://warontherocks.com/towards-a-concept-of-good-civilian-guidance/
+
+Brief Synopsis
+
+Friend and Karlin focus on something often missing from discussions of civilian control:
+
+Civilians have obligations too.
+
+Civilian leaders cannot simply invoke their legal authority and expect good outcomes. They must provide competent guidance to the military.
+
+Good civilian guidance should be:
+
+* important,
+* clear,
+* implementable,
+* logically connected to political objectives,
+* appropriately resourced,
+* and reinforced through continuous civilian oversight.
+
+This piece complements Cohen particularly well: if civilians are going to exercise active control, they must become good at exercising it.
+
+Memory hook:
+Civilian supremacy is a right; competent civilian guidance is a skill.
+
+⸻
+
+Lesson 4 Discussion Questions
+
+1. What does Huntington mean by objective control and how does this contrast with Cohen’s unequal dialogue? If creating and implementing strategy is a civil-military project, who should do what?
+2. Huntington emphasizes military professionalism as a safeguard for civilian control. What role does military professionalism play in Cohen’s unequal dialogue?
+3. Which theory of civilian control best reflects the reality of how civil-military interactions actually occur in the United States today? Is one better suited for today’s strategic environment, characterized by rapid technological change, a diverse threat landscape, and partisan polarization?
+4. What are the implications of each of these theories of civilian control for strategy development and execution in wartime?
+5. Which theories of civilian control are most compatible with Clausewitz’s writing about the nature and character of war, and why? With Jomini’s principles?
+
+⸻
+
+Suggested Reading Order
+
+1. Blankshain — build the conceptual map.
+2. Huntington — understand objective control on its own terms.
+3. Cohen — attack Huntington with the unequal dialogue and Lincoln case.
+4. Brooks — contemporary critique and synthesis.
+
+If short on time, prioritize:
+
+Huntington → Cohen → Brooks
+
+Those three constitute the core intellectual argument of the lesson.
+
+⸻
+
+One-Sentence Lesson 4 Synthesis
+
+The central civil-military problem is not merely ensuring that civilians are legally in charge; it is designing a relationship in which civilian political judgment and military professional expertise interact productively enough to convert military action into political success.
+
+⸻
+
+Core Comparison to Remember
+
+Huntington:
+Separate the spheres.
+
+Cohen:
+Keep the spheres in constant dialogue.
+
+Brooks:
+Rigid separation can undermine both civilian control and strategic effectiveness.
+
+Blankshain:
+Remember that the relationship also includes the public, not just generals and politicians.
+
 # Course Portal Structure
 
 Current coverage:
