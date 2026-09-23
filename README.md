@@ -333,6 +333,25 @@ Power is not limited to coercion or payment. The information revolution lowers b
 - What is soft power?
 - What are the limits of liberalism in explaining international relations?
 
+SEST 5000 — Lesson 4: Constructivism and the Role of Ideas
+
+1. Alexander Wendt — “Anarchy is What States Make of It: The Social Construction of Power Politics”
+Assigned: pp. 391–425
+PDF: https://pmachala.people.amherst.edu/Current%20Politics/PS-50%20IR%20%26%20Foreign%20Policy%20Theory-THE%20READINGS/Archive/Wendt%2C%20Anarchy%20is%20what%20states%20make%20of%20it%20%281992%29.pdf
+2. Michelle Murray — “The Struggle for Recognition in International Relations” [interview]
+Assigned: pp. 1–13
+Full transcript: https://www.carnegiecouncil.org/media/podcast/20191010-struggle-for-recognition-international-relations-michelle-murray
+3. Martha Finnemore — “Constructing Norms of Humanitarian Intervention”
+Assigned: pp. 153–185 (skim as necessary)
+Verified PDF copy in Essential Readings in World Politics; Finnemore begins on PDF page 112 / reader page 102:
+https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/e/11338/files/2016/01/ER-x2a1c6.pdf#page=112
+4. Nina Tannenwald — “Stigmatizing the Bomb: Origins of the Nuclear Taboo”
+Assigned: pp. 5–14 and 33–49
+PDF: https://www.nuclearinfo.org/wp-content/uploads/2023/03/Nina_Tannenwald_International_Security_Stigmatizing_the_Bomb_Origins_of_the_Nuclear_Taboo_2005.pdf
+5. Yong-Soo Eun — “Constructivism: National Identity and Foreign Policy”
+Assigned: full chapter
+Verified SAGE preview PDF; chapter begins on PDF page 63:
+https://api.pageplace.de/preview/DT0400.9781526455581_A38193347/preview-9781526455581_A38193347.pdf#page=63
 ---
 
 # SEST 5001 — Strategy / Policy / Military Operations
