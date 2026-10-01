@@ -1043,6 +1043,36 @@ Current coverage:
 
 Future lessons will be added to this repository as they are assigned and reviewed.
 
+# SEST 5001 — Lesson 6: World War I and the Interwar Innovation Period: Making Modern War
+
+## 1. Adam Grissom — “The Future of Military Innovation Studies”
+Assigned: pp. 905–930
+
+https://www.tandfonline.com/doi/full/10.1080/01402390600901067
+
+## 2. Williamson Murray — “Complex Adaptation: The Western Front, 1914–1918”
+Military Adaptation in War, Chapter 3
+Assigned: pp. 74–118
+
+https://rusiviccda.org/wp-content/uploads/2022/11/Military_Adaptation_in_War_-_Williamson_Murray.pdf
+
+## 3. Eugenia C. Kiesling — “Military Doctrine and Planning in the Interwar Era”
+The Cambridge History of War
+Assigned: pp. 327–351
+
+https://www.cambridge.org/core/books/abs/cambridge-history-of-war/military-doctrine-and-planning-in-the-interwar-era/9C0FF1F1AA3FC2451F142A5A087C0612
+
+## 4. Allan R. Millett — “Patterns of Military Innovation in the Interwar Period”
+Military Innovation in the Interwar Period
+Assigned: pp. 329–368
+
+https://www.cambridge.org/core/books/abs/military-innovation-in-the-interwar-period/patterns-of-military-innovation-in-the-interwar-period/32AC03C7AC94402CD9DCF5BBA0EA3B72
+
+## 5. Tami Davis Biddle — Air Power and Warfare: A Century of Theory and History
+Assigned: pp. 1–24
+
+https://www.govinfo.gov/app/details/GOVPUB-D101-PURL-gpo127943
+
 ---
 
 # Purpose and Use
