@@ -354,6 +354,33 @@ Verified SAGE preview PDF; chapter begins on PDF page 63:
 https://api.pageplace.de/preview/DT0400.9781526455581_A38193347/preview-9781526455581_A38193347.pdf#page=63
 ---
 
+# SEST 5000 — Lesson 5: The Role of Domestic Politics and Organizations
+
+## 1. Graham Allison & Philip Zelikow — Essence of Decision: Explaining the Cuban Missile Crisis, 2nd ed.
+Assigned:
+- Introduction
+- READ Chapters 3, 5, and 7
+- SKIM Chapters 1, 2, 4, and 6
+
+Full 2nd-edition PDF:
+https://web.stanford.edu/group/tomzgroup/pmwiki/uploads/0061-1999-AllisonandZelikow-b-RRW.pdf
+
+
+## 2. Stephen D. Krasner — “Are Bureaucracies Important? (Or Allison Wonderland)”
+Foreign Policy, No. 7 (Summer 1972)
+Assigned: pp. 159–179
+
+Full PDF:
+https://americanstudies.uwo.ca/documents/political_science/Krasner.pdf
+
+
+## 3. Jack Snyder — “The Cult of the Offensive in 1914”
+In Robert J. Art and Kenneth N. Waltz, eds., The Use of Force, 6th ed.
+Assigned: pp. 121–137
+
+Google Books:
+https://books.google.com/books/about/The_Use_of_Force.html?id=9OGHHbLbdAAC
+
 # SEST 5001 — Strategy / Policy / Military Operations
 
 This section is reserved for SEST 5001 readings.
