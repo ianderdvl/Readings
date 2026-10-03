@@ -381,6 +381,43 @@ Assigned: pp. 121–137
 Google Books:
 https://books.google.com/books/about/The_Use_of_Force.html?id=9OGHHbLbdAAC
 
+# SEST 5000 — Class 6: The Role of Individuals
+
+## 1. Daniel L. Byman & Kenneth M. Pollack — “Let Us Now Praise Great Men: Bringing the Statesman Back In”
+International Security, Vol. 25, No. 4 (Spring 2001)
+Assigned: pp. 107–146
+
+Synopsis: Byman and Pollack argue that individual leaders can substantially alter international outcomes, challenging structural theories that treat leaders as largely interchangeable.
+
+https://www.researchgate.net/publication/236727744_Let_Us_Now_Praise_Great_Men_Bringing_the_Statesman_Back_In
+
+
+## 2. Robert Jervis — “Hypotheses on Misperception”
+World Politics, Vol. 20, No. 3 (April 1968)
+Assigned: pp. 454–479
+
+Synopsis: Jervis identifies systematic psychological patterns that cause leaders to misread other states’ intentions and behavior, showing how individual perception can distort otherwise rational foreign-policy decisions.
+
+https://studylib.net/doc/28211219/jervis-article
+
+
+## 3. Jack S. Levy — “Loss Aversion, Framing, and Bargaining: The Implications of Prospect Theory for International Conflict”
+International Political Science Review, Vol. 17, No. 2 (April 1996)
+Assigned: pp. 179–195
+
+Synopsis: Levy applies prospect theory to international conflict, arguing that leaders evaluate outcomes relative to perceived reference points and become substantially more willing to accept risk when trying to avoid losses.
+
+https://fas-polisci.rutgers.edu/levy/articles/1996%20Loss%20Aversion%2C%20Framing%2C%20%26%20Bargaining.pdf
+
+
+## 4. Elizabeth N. Saunders — “No Substitute for Experience: Presidents, Advisers, and Information in Group Decision Making”
+International Organization, Vol. 71, No. S1 (Supplement 2017)
+Assigned: pp. S219–S247
+
+Synopsis: Saunders argues that experienced advisers cannot simply compensate for an inexperienced president because the leader’s own experience affects monitoring, delegation, information gathering, and the diversity of advice reaching the decision-maker.
+
+https://profsaunders.com/wp-content/uploads/2016/07/nosubstitute3.pdf
+
 # SEST 5001 — Strategy / Policy / Military Operations
 
 This section is reserved for SEST 5001 readings.
@@ -1100,6 +1137,79 @@ Assigned: pp. 1–24
 
 https://www.govinfo.gov/app/details/GOVPUB-D101-PURL-gpo127943
 
+# SEST 5001 — Lesson 7: Coalition Warfare: World War II European Theater
+
+## 1. Richard Overy — Why the Allies Won
+Assigned: pp. 1–24
+
+Synopsis: Overy challenges the idea that Allied victory was inevitable from superior resources, arguing that the Allies had to convert material potential into actual military effectiveness through leadership, adaptation, production, and battlefield performance.
+
+https://archive.org/details/whyallieswon0000over_s5q5
+
+
+## 2. Maurice Matloff — “Allied Strategy in Europe, 1939–1945”
+In Makers of Modern Strategy from Machiavelli to the Nuclear Age
+Assigned: pp. 677–702
+
+Synopsis: Matloff explains how the Allies reconciled competing American and British strategic priorities into a workable coalition strategy for defeating Germany.
+
+https://www.degruyterbrill.com/document/doi/10.1515/9781400835461-025/html
+
+
+## 3. Tami Davis Biddle — “Democratic Leaders and Strategies of Coalition Warfare: Churchill and Roosevelt in World War II”
+In The New Makers of Modern Strategy
+Assigned: pp. 569–592
+
+Synopsis: Biddle argues that Churchill and Roosevelt exploited the distinctive strengths of democratic civil-military decision-making to manage disagreement, adapt strategy, and hold an extraordinarily difficult wartime coalition together.
+
+https://www.biknotes.com/_files/ugd/b8b6dc_6491ad215d394dafb01548c216cb10c0.pdf
+
+
+## 4. Douglas E. Delaney — “Churchill and the Mediterranean Strategy: December 1941 to January 1943”
+Defence Studies 2, no. 3
+Assigned: pp. 1–26
+
+Synopsis: Delaney examines Churchill’s preference for Mediterranean operations and shows that his strategy reflected political and coalition considerations as well as purely military calculations.
+
+https://www.tandfonline.com/doi/abs/10.1080/14702430208405038
+
+
+## 5. Eliot A. Cohen — Supreme Command: Soldiers, Statesmen, and Leadership in Wartime
+Chapter: “Churchill Asks a Question”
+Assigned:
+- SKIM pp. 95–115
+- READ THOROUGHLY pp. 115–132
+
+Synopsis: Cohen uses Churchill to argue that effective wartime civilian leadership requires political leaders to interrogate, challenge, and repeatedly engage military professionals rather than simply defer to them.
+
+https://books.google.com/books?id=E3rl30TO2CAC
+
+
+## 6. Warren F. Kimball — “Franklin D. Roosevelt and World War II”
+Presidential Studies Quarterly 34, no. 1
+Assigned: pp. 83–99
+
+Synopsis: Kimball examines Roosevelt’s highly political and often indirect wartime leadership, including how FDR maneuvered the United States toward war and managed strategy without relying on a rigid grand-strategic blueprint.
+
+https://onlinelibrary.wiley.com/doi/10.1111/j.1741-5705.2004.00036.x
+
+
+## 7. Bernard Brodie — “Strategic Bombing in World War II”
+In Strategy in the Missile Age
+Assigned: pp. 107–144
+
+Synopsis: Brodie assesses what WWII strategic bombing actually accomplished against what airpower advocates had predicted, emphasizing how badly prewar expectations underestimated the difficulty and uncertainty of producing strategic effects from the air.
+
+https://pages.ucsd.edu/~bslantchev/courses/pdf/Brodie%20-%20Strategic%20Bombing%20in%20WW2.pdf
+
+
+## 8. Tami Davis Biddle — “Rhetoric and Reality, 1939–1942”
+In Rhetoric and Reality in Air Warfare
+Assigned: pp. 176–213
+
+Synopsis: Biddle shows how the opening years of WWII exposed the gap between interwar strategic-bombing theory and operational reality, forcing Britain and the United States to adapt doctrines they had already invested heavily in.
+
+https://books.google.com/books?id=SNcFUM7wJCMC
 ---
 
 # Purpose and Use
