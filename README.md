@@ -1248,12 +1248,10 @@ The finished site should then be available at an address similar to:
 https://YOUR-USERNAME.github.io/sest-reading-portal/
 
 ---
+## Israel iTrek — Travel Arrangements
 
-# Updating the Portal
+**Accommodation:** Renaissance Tel Aviv Hotel (Marriott)
 
-As additional SEST 5000 and SEST 5001 lessons are completed, new readings can be added to both:
+**Hotel Address:** 121 HaYarkon Street, Tel Aviv-Yafo, Israel
 
-- `README.md`
-- `index.html`
-
-The goal is for this repository to become a single browser-accessible reading hub for the semester.
+**Ground Transportation Company:** Kedma Tours
