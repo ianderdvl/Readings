@@ -1255,3 +1255,10 @@ https://YOUR-USERNAME.github.io/sest-reading-portal/
 **Hotel Address:** 121 HaYarkon Street, Tel Aviv-Yafo, Israel
 
 **Ground Transportation Company:** Kedma Tours
+
+Yep. As booked through Virgin Atlantic, your four flight numbers are:
+
+* Dec. 26 — SLC → JFK: VS3218 — operated by Delta
+* Dec. 26 — JFK → TLV: VS3905 — operated by Delta
+* Jan. 5 — TLV → JFK: VS3955 — operated by Delta
+* Jan. 6 — JFK → IAD: VS1849 — operated by Endeavor Air/Delta Connection
