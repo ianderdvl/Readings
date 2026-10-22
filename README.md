@@ -418,6 +418,34 @@ Synopsis: Saunders argues that experienced advisers cannot simply compensate for
 
 https://profsaunders.com/wp-content/uploads/2016/07/nosubstitute3.pdf
 
+# SEST 5000 — Class 7: World War I
+
+## 1. James Joll and Gordon Martel — The Origins of the First World War
+READ: Chapters 1, 2, and 9
+SKIM: Chapters 3–8
+
+Synopsis: Examines the July Crisis and the competing diplomatic,
+military, political, economic, and imperial explanations for WWI.
+
+Full-text reading page (Scribd; possible login restrictions):
+https://www.scribd.com/document/493772875/Origins-of-Modern-Wars-Joll-James-Martel-Gordon-The-Origins-of-the-First-World-War-2014-Routledge-Libgen-lc
+
+Alternative full-text page (Scribd):
+https://www.scribd.com/document/891104123/The-Origins-of-the-First-World-War-Z-Library-co
+
+
+## 2. W. E. B. Du Bois — The African Roots of War
+READ: pp. 707–714
+
+Synopsis: Argues that European imperial exploitation of Africa,
+and competition over its resources and labor, helped produce WWI.
+
+Full original article:
+https://www.unz.com/Pub/AtlanticMonthly-1915may-00707
+
+Alternative readable transcription:
+https://anyflip.com/ldpx/zeni/basic/
+
 # SEST 5001 — Strategy / Policy / Military Operations
 
 This section is reserved for SEST 5001 readings.
