@@ -1286,7 +1286,14 @@ https://YOUR-USERNAME.github.io/sest-reading-portal/
 
 Yep. As booked through Virgin Atlantic, your four flight numbers are:
 
-* Dec. 26 — SLC → JFK: VS3218 — operated by Delta
-* Dec. 26 — JFK → TLV: VS3905 — operated by Delta
-* Jan. 5 — TLV → JFK: VS3955 — operated by Delta
-* Jan. 6 — JFK → IAD: VS1849 — operated by Endeavor Air/Delta Connection
+Brik Yitzhak — Commander, Israel Border Police
+
+Internal security after October 7: civilian protection, emergency preparedness, policing priorities, and community trust.
+
+Professor Amal Jamal — Tel Aviv University
+
+Jewish-Arab relations after October 7: Palestinian and Arab minority perspectives, civic equality, and coexistence.
+
+Boaz Levy — Chairman, Israel Aerospace Industries
+
+U.S.–Israel defense cooperation and Israel’s qualitative military edge: bilateral partnerships, joint missile-defense development, and regional security.
