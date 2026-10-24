@@ -1122,18 +1122,59 @@ Rigid separation can undermine both civilian control and strategic effectiveness
 Blankshain:
 Remember that the relationship also includes the public, not just generals and politicians.
 
-# Course Portal Structure
 
-Current coverage:
+# SEST 5001 — Lesson 5: The Instruments of War: Service Cultures and Capabilities
 
-- SEST 5000
-  - Lesson 1 — Introduction to Security Studies
-  - Lesson 2 — Realism and the Role of Power
+## 1. James Q. Wilson — Bureaucracy: What Government Agencies Do and Why They Do It
+**Assigned:** pp. 90–110 (Chapter 6, Culture).
 
-- SEST 5001
-  - Reading sections forthcoming
+**Main argument:** Organizations develop distinctive cultures from their tasks, experiences, and shared beliefs. These cultures create cohesion and guide decisions, but can also produce rigidity and resistance to change. Military organizations therefore pursue strategies shaped by institutional identity, not merely national objectives.
 
-Future lessons will be added to this repository as they are assigned and reviewed.
+**Access:** https://archive.org/search?query=James+Q+Wilson+Bureaucracy+What+Government+Agencies+Do+and+Why+They+Do+It
+
+**Status:** Catalog/search link; unrestricted full text not verified.
+
+
+## 2. Paula G. Thornhill — Demystifying the American Military
+**Assigned:** pp. 7–34.
+
+**Main argument:** The American military evolved through historical experience, specialization, civilian oversight, and organizational reform. The services' distinctive identities and missions are historically produced rather than inevitable, and these legacies shape contemporary defense policy.
+
+**Access:** https://www.usni.org/press/books/demystifying-american-military
+
+**Status:** Publisher page; unrestricted full text not verified.
+
+
+## 3. S. Rebecca Zimmerman et al. — Movement and Maneuver: Culture and the Competition for Influence Among the U.S. Military Services
+**Assigned:** pp. 1–169.
+
+**Main argument:** The military services and USSOCOM possess enduring organizational personalities that shape competition for missions, budgets, authorities, access, and influence. Goldwater–Nichols changed the competitive environment without eliminating service rivalry.
+
+**Full free PDF:** https://www.rand.org/content/dam/rand/pubs/research_reports/RR2200/RR2270/RAND_RR2270.pdf
+
+
+## 4. Hannah D. Dennis — Defense Primer: The United States Space Force
+**Assigned:** pp. 1–2 (CRS IF12610, 2026).
+
+**Main argument:** The Space Force illustrates how emerging operational requirements can drive the creation of a distinct military service, with its own responsibilities, organization, resources, and institutional identity.
+
+**Free April 2026 edition:** https://www.everycrsreport.com/files/2026-04-17_IF12610_f88ebd667438ded396dd642600622cecb03f1897.html
+
+
+---
+
+## Lesson Synthesis
+
+**Wilson = Theory:** Organizational culture shapes behavior.
+
+**Thornhill = History:** Military service cultures emerge through institutional evolution.
+
+**Zimmerman = Contemporary application:** Service cultures drive bureaucratic competition and influence strategy.
+
+**Dennis = Emerging domain:** New operational requirements can produce new services and institutional identities.
+
+**Core takeaway:** Military organizations are not neutral instruments of national strategy. Their histories, cultures, missions, and institutional interests influence how national strategy is formulated and implemented.
+
 
 # SEST 5001 — Lesson 6: World War I and the Interwar Innovation Period: Making Modern War
 
