@@ -1337,4 +1337,104 @@ Jewish-Arab relations after October 7: Palestinian and Arab minority perspective
 
 Boaz Levy — Chairman, Israel Aerospace Industries
 
-U.S.–Israel defense cooperation and Israel’s qualitative military edge: bilateral partnerships, joint missile-defense development, and regional security.
+U.S.–Israel defense cooperation and Israel’s qualitative military edge: bilateral partnerships, joint missile-defense development, and regional security
+
+
+# SEST 5001 — Lesson 7: Coalition Warfare, World War II European Theater
+
+## 1. Richard Overy — Why the Allies Won
+**Assigned:** pp. 1–24.
+
+**Access:** https://books.google.com/books?id=igQlEQAAQBAJ
+
+**Status:** Google Books preview; complete assigned pages not verified.
+
+**Main argument:** Allied victory was not inevitable or simply the result of superior industrial production. Overy argues that Allied leaders converted material resources into military success through adaptation, strategic choices, effective mobilization, technology, and operational learning. The outcome remained uncertain during much of the war.
+
+## 2. Maurice Matloff — Allied Strategy in Europe, 1939–1945
+**Assigned:** pp. 677–702 in *Makers of Modern Strategy* (1986).
+
+**Access (related work by the same author):** https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/S%20PDF/strat-coalition-2.pdf
+
+**Status:** Free U.S. Army history, but NOT the assigned anthology chapter.
+
+**Main argument:** Allied grand strategy emerged from negotiations among governments whose priorities, capabilities, and political interests differed. The Germany-first commitment, Mediterranean operations, and cross-Channel invasion required continual reconciliation of strategic ends, available means, and coalition politics.
+
+## 3. Tami Davis Biddle — Democratic Leaders and Strategies of Coalition Warfare: Churchill and Roosevelt in World War II
+**Assigned:** pp. 569–592 in *The New Makers of Modern Strategy* (2023).
+
+**Access:** https://www.biknotes.com/_files/ugd/b8b6dc_6491ad215d394dafb01548c216cb10c0.pdf
+
+**Status:** Publicly linked PDF; availability and pagination should be checked.
+
+**Main argument:** Democratic political leadership can help sustain effective coalitions by reconciling national priorities, managing military advisers, building domestic support, and negotiating strategic compromises. Churchill and Roosevelt demonstrate the importance of political judgment in coordinating a multinational war effort.
+
+## 4. Douglas E. Delaney — Churchill and the Mediterranean Strategy: December 1941 to January 1943
+**Assigned:** *Defence Studies* 2, no. 3 (2002), pp. 1–26.
+
+**Access:** https://doi.org/10.1080/14702430208405038
+
+**Status:** Publisher abstract; unrestricted full text not verified.
+
+**Main argument:** Churchill's preference for Mediterranean operations reflected political and strategic calculations, not merely an aversion to direct confrontation with Germany. His influence helped shape coalition decisions over North Africa and the sequencing of operations, highlighting the interaction between national interests and Allied strategy.
+
+## 5. Eliot A. Cohen — Supreme Command: Soldiers, Statesmen, and Leadership in Wartime
+**Assigned:** SKIM pp. 95–115; READ pp. 115–132.
+
+**Access:** https://books.google.com/books?q=Eliot+Cohen+Supreme+Command
+
+**Status:** Book search/preview; assigned pages not confirmed freely accessible.
+
+**Main argument:** Effective wartime civilian leaders actively question military professionals rather than simply defer to their expertise. Churchill illustrates how persistent civilian scrutiny can expose strategic assumptions, generate alternatives, and keep military operations connected to political objectives.
+
+## 6. Warren F. Kimball — Franklin D. Roosevelt and World War II
+**Assigned:** *Presidential Studies Quarterly* 34, no. 1 (2004), pp. 83–99.
+
+**Access:** https://doi.org/10.1111/j.1741-5705.2004.00036.x
+
+**Status:** Publisher page; unrestricted full text not verified.
+
+**Main argument:** Roosevelt's wartime leadership involved balancing his strategic preferences with domestic political realities and the interests of Allied governments. His diplomacy illustrates how coalition strategy depends on political flexibility, personal relationships, and the management of competing priorities.
+
+## 7. Bernard Brodie — Strategic Bombing in World War II
+**Assigned:** pp. 107–144 in *Strategy in the Missile Age* (1959).
+
+**Full PDF:** https://pages.ucsd.edu/~bslantchev/courses/pdf/Brodie%20-%20Strategic%20Bombing%20in%20WW2.pdf
+
+**Status:** Free university-hosted assigned excerpt.
+
+**Main argument:** Strategic bombing significantly damaged Axis war economies, but its effects depended on timing, target selection, and operational conditions. Brodie argues that bombing's decisive economic effects in Germany came relatively late and that better targeting could have produced greater strategic benefits sooner.
+
+## 8. Tami Davis Biddle — Rhetoric and Reality, 1939–1942
+**Assigned:** pp. 176–213 in *Rhetoric and Reality in Air Warfare* (2002).
+
+**Access:** https://www.jstor.org/stable/j.ctt7rq5m
+
+**Status:** Publisher/library access; unrestricted assigned chapter not verified.
+
+**Related free work by the author:** https://press.armywarcollege.edu/monographs/378/
+
+**Main argument:** British and American expectations of strategic bombing exceeded the capabilities demonstrated early in World War II. Technological limits, inaccurate assumptions about civilian morale and industrial vulnerability, and organizational commitments complicated the application of airpower.
+
+---
+
+## Lesson Synthesis
+
+**Overy:** Allied victory was contingent and required effective adaptation.
+
+**Matloff:** Coalition strategy reconciles competing national objectives and military resources.
+
+**Biddle (coalition warfare):** Political leadership can mitigate the inherent difficulties of multinational strategy.
+
+**Delaney:** Churchill used Mediterranean strategy to influence Allied priorities.
+
+**Cohen:** Civilian leaders must actively interrogate military advice.
+
+**Kimball:** Roosevelt balanced military objectives, domestic politics, and coalition diplomacy.
+
+**Brodie:** Strategic bombing's effectiveness depended on target selection and timing.
+
+**Biddle (air warfare):** Airpower doctrine frequently exceeded operational reality.
+
+**Core takeaway:** Coalition warfare multiplies resources and capabilities but introduces competing political objectives, institutional disagreements, and coordination costs. Strategic success depends on managing those tensions and translating combined resources into effective military action.
+
