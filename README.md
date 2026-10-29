@@ -446,6 +446,40 @@ https://www.unz.com/Pub/AtlanticMonthly-1915may-00707
 Alternative readable transcription:
 https://anyflip.com/ldpx/zeni/basic/
 
+
+# SEST 5000 — Class 9: World War II
+
+## 1. Richard J. Overy — The Origins of the Second World War
+**Assigned:** pp. 1–104.
+
+**PDF (edition/pagination not independently confirmed):**
+https://mchistelibrary.com/wp-content/uploads/2022/05/The-Origins-of-the-Second-World-War-by-Richard-Overy.pdf
+
+**Main argument:** World War II emerged from a combination of imperial competition, international instability, economic pressures, ideological ambitions, and specific political decisions. Hitler's expansionism was central, but the war cannot be explained solely by his personality or by an inevitable breakdown of the international system. Overy distinguishes long-term conditions that made war possible from the choices that brought war about in 1939.
+
+**Key evidence:** German rearmament; appeasement and Munich; the occupation of Czechoslovakia; the British guarantee to Poland; the Nazi–Soviet Pact; the invasion of Poland.
+
+## 2. Scott D. Sagan — The Origins of the Pacific War
+**Assigned:** *Journal of Interdisciplinary History* 18, no. 4 (1988), pp. 893–922.
+
+**PDF (publicly linked copy):**
+https://www.rochelleterman.com/ir/sites/default/files/Sagan%201988.pdf
+
+**Main argument:** Japan's decision to attack the United States reflected a mutual failure of deterrence, not simply irrational aggression. American economic coercion, particularly the oil embargo, threatened Japan's long-term military position. Japanese leaders believed that waiting or accepting American demands could be worse than fighting immediately. Bureaucratic implementation, institutional interests, and diplomatic miscalculations intensified the crisis.
+
+**Key evidence:** U.S. oil restrictions; Japanese dependence on imported oil; the army's resistance to withdrawal from China; the Konoe–Tojo transition; failed negotiations in November 1941; Pearl Harbor.
+
+---
+
+## Lesson Synthesis
+
+**Overy:** International instability creates opportunities for conflict, but leaders' decisions determine whether and when war occurs.
+
+**Sagan:** Even credible military threats can fail to deter when an adversary believes compliance or delay is intolerably costly.
+
+**Core takeaway:** The European and Pacific wars demonstrate how systemic pressures, domestic institutions, ideology, and individual decisions interact. Neither material power nor international instability alone explains the outbreak of war.
+
+
 # SEST 5001 — Strategy / Policy / Military Operations
 
 This section is reserved for SEST 5001 readings.
@@ -1340,101 +1374,152 @@ Boaz Levy — Chairman, Israel Aerospace Industries
 U.S.–Israel defense cooperation and Israel’s qualitative military edge: bilateral partnerships, joint missile-defense development, and regional security
 
 
-# SEST 5001 — Lesson 7: Coalition Warfare, World War II European Theater
 
-## 1. Richard Overy — Why the Allies Won
-**Assigned:** pp. 1–24.
+# SEST 5001 — Lesson 8: World War II — American and Japanese Strategies in the Pacific Theater
 
-**Access:** https://books.google.com/books?id=igQlEQAAQBAJ
+## 1. S. C. M. Paine — Japan Caught between Maritime and Continental Imperialism
 
-**Status:** Google Books preview; complete assigned pages not verified.
+**Assigned:** Chapter 17, pp. 415–439, in *The New Makers of Modern Strategy* (2023).
 
-**Main argument:** Allied victory was not inevitable or simply the result of superior industrial production. Overy argues that Allied leaders converted material resources into military success through adaptation, strategic choices, effective mobilization, technology, and operational learning. The outcome remained uncertain during much of the war.
+**Access:** https://press.princeton.edu/books/hardcover/9780691204383/the-new-makers-of-modern-strategy
 
-## 2. Maurice Matloff — Allied Strategy in Europe, 1939–1945
-**Assigned:** pp. 677–702 in *Makers of Modern Strategy* (1986).
+**Status:** Publisher page; assigned chapter not verified freely accessible.
 
-**Access (related work by the same author):** https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/S%20PDF/strat-coalition-2.pdf
+**Main argument:** Japan's grand strategy suffered from a fundamental contradiction between continental expansion in China and maritime expansion across the Pacific. The Imperial Army and Navy pursued different strategic visions, preventing Japan from concentrating its resources on a coherent and achievable national objective.
 
-**Status:** Free U.S. Army history, but NOT the assigned anthology chapter.
+**Key takeaway:** Japan's strategic failure originated partly in the inability to reconcile competing imperial ambitions into a unified grand strategy.
 
-**Main argument:** Allied grand strategy emerged from negotiations among governments whose priorities, capabilities, and political interests differed. The Germany-first commitment, Mediterranean operations, and cross-Channel invasion required continual reconciliation of strategic ends, available means, and coalition politics.
+## 2. Sadao Asada — From Mahan to Pearl Harbor: The Imperial Japanese Navy and the United States
 
-## 3. Tami Davis Biddle — Democratic Leaders and Strategies of Coalition Warfare: Churchill and Roosevelt in World War II
-**Assigned:** pp. 569–592 in *The New Makers of Modern Strategy* (2023).
+**Assigned:** pp. 161–186.
 
-**Access:** https://www.biknotes.com/_files/ugd/b8b6dc_6491ad215d394dafb01548c216cb10c0.pdf
+**Access:** https://books.google.com/books?q=Sadao+Asada+From+Mahan+to+Pearl+Harbor
 
-**Status:** Publicly linked PDF; availability and pagination should be checked.
+**Status:** Book search/preview; complete assigned pages not verified.
 
-**Main argument:** Democratic political leadership can help sustain effective coalitions by reconciling national priorities, managing military advisers, building domestic support, and negotiating strategic compromises. Churchill and Roosevelt demonstrate the importance of political judgment in coordinating a multinational war effort.
+**Main argument:** Japanese naval strategy was deeply influenced by Alfred Thayer Mahan's emphasis on command of the sea and decisive fleet battles. The Imperial Japanese Navy developed doctrines and force structures around defeating the American fleet, but these institutional assumptions constrained its ability to formulate a sustainable strategy against American industrial superiority.
 
-## 4. Douglas E. Delaney — Churchill and the Mediterranean Strategy: December 1941 to January 1943
-**Assigned:** *Defence Studies* 2, no. 3 (2002), pp. 1–26.
+**Key takeaway:** A military institution can become exceptionally proficient at preparing for a particular battle while neglecting whether winning that battle can achieve the nation's political objectives.
 
-**Access:** https://doi.org/10.1080/14702430208405038
+## 3. Eri Hotta — Japan 1941: Countdown to Infamy
 
-**Status:** Publisher abstract; unrestricted full text not verified.
+**Assigned:** pp. 261–278.
 
-**Main argument:** Churchill's preference for Mediterranean operations reflected political and strategic calculations, not merely an aversion to direct confrontation with Germany. His influence helped shape coalition decisions over North Africa and the sequencing of operations, highlighting the interaction between national interests and Allied strategy.
+**Access:** https://books.google.com/books?q=Eri+Hotta+Japan+1941+Countdown+to+Infamy
 
-## 5. Eliot A. Cohen — Supreme Command: Soldiers, Statesmen, and Leadership in Wartime
-**Assigned:** SKIM pp. 95–115; READ pp. 115–132.
+**Status:** Book search/preview; complete assigned pages not verified.
 
-**Access:** https://books.google.com/books?q=Eliot+Cohen+Supreme+Command
+**Main argument:** Japan's decision to attack Pearl Harbor emerged from political dysfunction, institutional rivalry, and leaders' unwillingness to confront the implications of their own strategic assessments. Decision-makers understood the enormous dangers of war but failed to establish a viable alternative.
 
-**Status:** Book search/preview; assigned pages not confirmed freely accessible.
+**Key takeaway:** Strategic catastrophe can result from collective failures of leadership even when individual participants recognize the dangers.
 
-**Main argument:** Effective wartime civilian leaders actively question military professionals rather than simply defer to their expertise. Churchill illustrates how persistent civilian scrutiny can expose strategic assumptions, generate alternatives, and keep military operations connected to political objectives.
+## 4. David C. Gompert, Hans Binnendijk, and Bonny Lin — Blinders, Blunders, and Wars: What America and China Can Learn
 
-## 6. Warren F. Kimball — Franklin D. Roosevelt and World War II
-**Assigned:** *Presidential Studies Quarterly* 34, no. 1 (2004), pp. 83–99.
+**Assigned:** pp. 93–106.
 
-**Access:** https://doi.org/10.1111/j.1741-5705.2004.00036.x
+**Full free RAND report:** https://www.rand.org/pubs/research_reports/RR768.html
 
-**Status:** Publisher page; unrestricted full text not verified.
+**Status:** Open-access RAND publication; download the PDF from the report page.
 
-**Main argument:** Roosevelt's wartime leadership involved balancing his strategic preferences with domestic political realities and the interests of Allied governments. His diplomacy illustrates how coalition strategy depends on political flexibility, personal relationships, and the management of competing priorities.
+**Main argument:** The road to Pearl Harbor illustrates how economic coercion, strategic miscalculation, institutional constraints, and failures to appreciate an adversary's perspective can contribute to war. Leaders can pursue policies intended to deter aggression that instead intensify the adversary's incentives to fight.
 
-## 7. Bernard Brodie — Strategic Bombing in World War II
-**Assigned:** pp. 107–144 in *Strategy in the Missile Age* (1959).
+**Key takeaway:** Effective strategy requires understanding how an adversary interprets threats, costs, and alternatives—not simply how policymakers intend their own actions to be understood.
 
-**Full PDF:** https://pages.ucsd.edu/~bslantchev/courses/pdf/Brodie%20-%20Strategic%20Bombing%20in%20WW2.pdf
+## 5. Janis Mimura — Japan's New Order and Greater East Asia Co-Prosperity Sphere: Planning for Empire
 
-**Status:** Free university-hosted assigned excerpt.
+**Assigned:** *The Asia-Pacific Journal* 9, no. 49 (2011), pp. 1–12.
 
-**Main argument:** Strategic bombing significantly damaged Axis war economies, but its effects depended on timing, target selection, and operational conditions. Brodie argues that bombing's decisive economic effects in Germany came relatively late and that better targeting could have produced greater strategic benefits sooner.
+**Open-access article search:** https://apjjf.org/?s=Janis+Mimura+Japan%27s+New+Order
 
-## 8. Tami Davis Biddle — Rhetoric and Reality, 1939–1942
-**Assigned:** pp. 176–213 in *Rhetoric and Reality in Air Warfare* (2002).
+**Status:** Journal search; direct article URL not independently verified.
 
-**Access:** https://www.jstor.org/stable/j.ctt7rq5m
+**Main argument:** Japan's imperial expansion was accompanied by efforts to construct a new regional political and economic order. The Greater East Asia Co-Prosperity Sphere combined claims of Asian liberation and regional cooperation with Japanese domination, economic mobilization, and imperial planning.
 
-**Status:** Publisher/library access; unrestricted assigned chapter not verified.
+**Key takeaway:** Japan's war aims involved not merely territorial conquest but the construction of an alternative regional order organized around Japanese power.
 
-**Related free work by the author:** https://press.armywarcollege.edu/monographs/378/
+## 6. David C. Evans and Mark R. Peattie — Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941
 
-**Main argument:** British and American expectations of strategic bombing exceeded the capabilities demonstrated early in World War II. Technological limits, inaccurate assumptions about civilian morale and industrial vulnerability, and organizational commitments complicated the application of airpower.
+**Assigned:** pp. 487–503.
+
+**Access:** https://books.google.com/books?q=Evans+Peattie+Kaigun+Strategy+Tactics+Technology
+
+**Status:** Book search/preview; complete assigned pages not verified.
+
+**Main argument:** The Imperial Japanese Navy achieved remarkable tactical and technological sophistication, particularly in naval aviation, torpedoes, and fleet operations. However, its organizational and doctrinal development remained tied to assumptions about decisive battle and a relatively short war, creating vulnerabilities in a prolonged industrial conflict.
+
+**Key takeaway:** Tactical superiority and technological innovation cannot compensate indefinitely for an unsustainable strategic concept.
+
+## 7. D. Clayton James — American and Japanese Strategies in the Pacific War
+
+**Assigned:** Chapter 24, pp. 703–734, in *Makers of Modern Strategy* (1986).
+
+**Access:** https://books.google.com/books?q=Makers+of+Modern+Strategy+Clayton+James+Pacific+War
+
+**Status:** Book search/preview; assigned chapter not verified freely accessible.
+
+**Main argument:** American and Japanese strategies differed fundamentally in their objectives, resources, and assumptions about the duration of war. Japan sought early victories and a defensible regional perimeter that might compel a negotiated settlement. The United States pursued a sustained offensive that exploited its growing industrial, naval, and logistical advantages.
+
+**Key takeaway:** The Pacific War demonstrates the importance of aligning military operations with achievable political objectives and the resources required for a prolonged conflict.
+
+## 8. Himadri Bose — Influence of Alfred Thayer Mahan on Japanese Maritime Strategy
+
+**Assigned:** *Journal of Defence Studies* 14, nos. 1–2 (2020), pp. 49–68.
+
+**Access:** https://idsa.in/?s=Influence+of+Alfred+Thayer+Mahan+on+Japanese+Maritime+Strategy
+
+**Status:** Publisher search; direct full-text URL not independently verified.
+
+**Main argument:** Mahanian naval theory strongly influenced Japanese strategic thought, especially the importance of sea control, concentrated naval power, and decisive fleet engagements. Japanese adaptation of these principles shaped naval doctrine but also contributed to strategic rigidity.
+
+**Key takeaway:** Military theory can be both enabling and constraining: it provides a framework for innovation while potentially encouraging doctrinal fixation.
+
+## 9. William Y'Blood — Point Luck: The Battle of Midway
+
+**Assigned:** *Air Power History* 39, no. 2 (Summer 1992), pp. 6–16.
+
+**Access:** https://www.jstor.org/action/doBasicSearch?Query=William+Y%27Blood+Point+Luck+Battle+of+Midway
+
+**Status:** Article search; unrestricted full text not verified.
+
+**Main argument:** The Battle of Midway illustrates the interaction of intelligence, operational planning, carrier aviation, command decisions, and chance. American success helped reverse Japan's early operational momentum and exposed the vulnerabilities of Japan's naval strategy.
+
+**Key takeaway:** Operational outcomes emerge from the interaction of intelligence, planning, execution, and uncertainty; a decisive battle can alter strategic possibilities without independently determining the entire war.
 
 ---
 
 ## Lesson Synthesis
 
-**Overy:** Allied victory was contingent and required effective adaptation.
+**Paine:** Japan failed to reconcile continental and maritime imperial ambitions.
 
-**Matloff:** Coalition strategy reconciles competing national objectives and military resources.
+**Asada:** Mahanian naval doctrine shaped Japanese strategy and institutional assumptions.
 
-**Biddle (coalition warfare):** Political leadership can mitigate the inherent difficulties of multinational strategy.
+**Hotta:** Political dysfunction and collective decision-making failures contributed to Pearl Harbor.
 
-**Delaney:** Churchill used Mediterranean strategy to influence Allied priorities.
+**Gompert et al.:** Economic coercion and misperception can unintentionally intensify the risk of war.
 
-**Cohen:** Civilian leaders must actively interrogate military advice.
+**Mimura:** Japan sought to construct a Japanese-dominated regional political and economic order.
 
-**Kimball:** Roosevelt balanced military objectives, domestic politics, and coalition diplomacy.
+**Evans and Peattie:** Japanese tactical and technological excellence coexisted with strategic weaknesses.
 
-**Brodie:** Strategic bombing's effectiveness depended on target selection and timing.
+**James:** American and Japanese strategies differed in objectives, resources, and assumptions about the duration of war.
 
-**Biddle (air warfare):** Airpower doctrine frequently exceeded operational reality.
+**Bose:** Mahanian theory influenced Japanese naval development and doctrinal rigidity.
 
-**Core takeaway:** Coalition warfare multiplies resources and capabilities but introduces competing political objectives, institutional disagreements, and coordination costs. Strategic success depends on managing those tensions and translating combined resources into effective military action.
+**Y'Blood:** Midway illustrates the importance of intelligence, operational execution, and uncertainty.
 
+## Central Analytical Questions
+
+1. How did interservice rivalry and institutional culture undermine Japanese grand strategy?
+2. Why did Japan pursue war against an opponent possessing overwhelming industrial advantages?
+3. How did Japanese military doctrine influence its strategic objectives and operational planning?
+4. To what extent did American economic sanctions contribute to the outbreak of war?
+5. Why was American strategy ultimately more sustainable than Japanese strategy?
+6. How did intelligence, technology, and operational adaptation influence the outcome of the Pacific War?
+
+## Core Takeaway
+
+Japan possessed formidable military capabilities and achieved extraordinary early operational successes, but its grand strategy suffered from conflicting objectives, institutional rivalry, unrealistic assumptions, and inadequate resources for a prolonged war.
+
+The United States gradually translated its industrial superiority, intelligence capabilities, logistical capacity, and operational adaptation into sustained strategic advantage.
+
+**Central lesson:** Tactical excellence cannot compensate for an incoherent or unsustainable grand strategy.
