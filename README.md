@@ -1523,3 +1523,192 @@ Japan possessed formidable military capabilities and achieved extraordinary earl
 The United States gradually translated its industrial superiority, intelligence capabilities, logistical capacity, and operational adaptation into sustained strategic advantage.
 
 **Central lesson:** Tactical excellence cannot compensate for an incoherent or unsustainable grand strategy.
+
+
+# SEST 5000 — Class 10: The Cold War
+
+## 1. Robert J. McMahon — The Cold War: A Very Short Introduction
+
+**Assigned:** Chapters 1–3 and 8.
+
+**Access:** https://books.google.com/books?q=Robert+McMahon+The+Cold+War+A+Very+Short+Introduction
+
+**Status:** Book search/preview; complete assigned chapters not verified freely accessible.
+
+**Main argument:** The Cold War emerged from the interaction of ideological incompatibility, geopolitical insecurity, the postwar distribution of power, and mutual distrust between the United States and Soviet Union. Its development and conclusion cannot be explained through military competition alone.
+
+**Key takeaway:** The Cold War was simultaneously an ideological confrontation and a geopolitical struggle shaped by the changing international distribution of power.
+
+## 2. Stephen G. Brooks and William C. Wohlforth — Power, Globalization, and the End of the Cold War
+
+**Assigned:** *International Security* 25, no. 3 (Winter 2000–2001), pp. 5–53.
+
+**Access:** https://doi.org/10.1162/016228800560516
+
+**Status:** Publisher article; unrestricted full text not independently verified.
+
+**Main argument:** The Cold War ended largely because Soviet economic decline and the changing international distribution of power made continued geopolitical competition increasingly unsustainable. Globalization and technological change exacerbated Soviet weaknesses, helping explain why Soviet leaders abandoned confrontation.
+
+**Key takeaway:** Structural changes in relative economic and military capabilities were central to the Soviet Union's strategic retreat.
+
+## 3. Robert G. Herman — Identity, Norms, and National Security: The Soviet Foreign Policy Revolution and the End of the Cold War
+
+**Assigned:** pp. 271–316 in *The Culture of National Security: Norms and Identity in World Politics* (1996).
+
+**Free book access:** https://ciaotest.cc.columbia.edu/book/katzenstein/index.html
+
+**Status:** Publicly hosted book resource; availability of the complete assigned chapter should be checked.
+
+**Main argument:** The Soviet Union's transformation under Mikhail Gorbachev cannot be adequately explained by material decline alone. Changing political identities, norms, and conceptions of national security helped redefine Soviet interests and made cooperative foreign policy possible.
+
+**Key takeaway:** Soviet foreign policy changed not merely because the balance of power shifted, but because Soviet leaders reconceptualized their country's identity, interests, and relationship with the West.
+
+---
+
+## Lesson Synthesis
+
+**McMahon:** The Cold War emerged from ideological rivalry, geopolitical insecurity, and competing visions of international order.
+
+**Brooks and Wohlforth:** Material decline and structural pressures made Soviet retrenchment increasingly attractive.
+
+**Herman:** Changes in identity, norms, and political ideas transformed Soviet conceptions of national interest.
+
+**Core analytical debate:** Did the Cold War end primarily because the Soviet Union could no longer sustain geopolitical competition, or because Soviet leaders came to understand security and international relations differently?
+
+**Core takeaway:** Material pressures help explain why Soviet leaders faced incentives for change, while ideational transformation helps explain the particular form that change took.
+
+---
+
+# SEST 5001 — Korean War: Strategic Leadership, Civil-Military Relations, and Nuclear Implications
+
+## 1. John Lewis Gaddis and Paul Nitze — NSC 68 and the Soviet Threat Reconsidered
+
+**Assigned:** *International Security* 4, no. 4 (Spring 1980), pp. 164–176.
+
+**Access:** https://www.jstor.org/action/doBasicSearch?Query=NSC+68+and+the+Soviet+Threat+Reconsidered
+
+**Status:** Journal search; unrestricted full text not verified.
+
+**Main argument:** The exchange revisits the strategic assumptions underlying NSC-68, particularly assessments of Soviet intentions, capabilities, and the need for expanded American military commitments.
+
+**Key takeaway:** Grand strategy depends on how policymakers assess adversary intentions and capabilities, and those assessments can remain contested decades later.
+
+## 2. Richard W. Stewart, ed. — American Military History, Volume II: The United States Army in a Global Era, 1917–2008
+
+**Assigned:** pp. 221–253.
+
+**Access:** https://history.army.mil/
+
+**Status:** Official U.S. Army history website; direct assigned-volume PDF not verified.
+
+**Main argument:** The Korean War evolved from a rapidly changing war of maneuver into a prolonged struggle characterized by positional warfare, political constraints, and limited objectives.
+
+**Key takeaway:** The Korean War illustrates how military operations must adapt when political objectives and strategic constraints change during a conflict.
+
+## 3. Daniel Marston — Limited War in the Nuclear Age: American Strategy in Korea
+
+**Assigned:** Chapter 29, pp. 717–740, in *The New Makers of Modern Strategy* (2023).
+
+**Access:** https://press.princeton.edu/books/hardcover/9780691204383/the-new-makers-of-modern-strategy
+
+**Status:** Publisher page; complete chapter not verified freely accessible.
+
+**Main argument:** The Korean War forced American leaders to reconcile military objectives with the risks of escalation in an emerging nuclear strategic environment. The conflict demonstrated the importance of limiting objectives even when opportunities for battlefield victory appeared available.
+
+**Key takeaway:** Strategic success requires matching military operations to politically acceptable objectives and escalation risks.
+
+## 4. Donald Stoker — Everything You Think You Know About Limited War Is Wrong
+
+**Assigned:** *War on the Rocks*, December 22, 2016.
+
+**Free article:** https://warontherocks.com/2016/12/everything-you-think-you-know-about-limited-war-is-wrong/
+
+**Status:** Public article.
+
+**Main argument:** Stoker challenges conventional understandings of limited war, arguing that analysts often confuse limited political objectives with limited military means. A war can employ substantial military force while pursuing restricted political goals.
+
+**Key takeaway:** The distinction between limited and unlimited war should focus primarily on political objectives rather than the scale of military operations.
+
+## 5. Roger Dingman — Atomic Diplomacy during the Korean War
+
+**Assigned:** *International Security* 13, no. 3 (Winter 1988–1989), pp. 50–79.
+
+**Access:** https://www.jstor.org/action/doBasicSearch?Query=Roger+Dingman+Atomic+Diplomacy+during+the+Korean+War
+
+**Status:** Journal search; unrestricted full text not verified.
+
+**Main argument:** Nuclear weapons influenced American strategic thinking during the Korean War, but their diplomatic utility was constrained by political, operational, and credibility considerations. Nuclear superiority did not automatically translate into effective coercive leverage.
+
+**Key takeaway:** Possessing nuclear weapons is not equivalent to possessing a credible or politically useful nuclear threat.
+
+## 6. Hiroshi Masuda — MacArthur in Asia: The General and His Staff in the Philippines, Japan, and Korea
+
+**Assigned:** pp. 249–273.
+
+**Access:** https://books.google.com/books?q=Hiroshi+Masuda+MacArthur+in+Asia
+
+**Status:** Book search/preview; assigned pages not verified freely accessible.
+
+**Main argument:** MacArthur's leadership and decision-making were shaped by his personality, advisory relationships, and institutional environment. His conduct during the Korean War demonstrates the importance of understanding command structures and the relationship between military judgment and political authority.
+
+**Key takeaway:** Strategic leadership cannot be separated from the institutional and personal dynamics surrounding senior commanders.
+
+## 7. Thomas Preston — The President and His Inner Circle: Leadership Style and the Advisory Process in Foreign Policy Making
+
+**Assigned:** pp. 32–63.
+
+**Access:** https://books.google.com/books?q=Thomas+Preston+The+President+and+His+Inner+Circle
+
+**Status:** Book search/preview; complete assigned pages not verified.
+
+**Main argument:** Presidential leadership styles influence how information is collected, how advisers interact, and how foreign-policy decisions are formulated. Differences in leaders' approaches to advice and decision-making can produce substantially different strategic outcomes.
+
+**Key takeaway:** Decision-making processes are not neutral; presidential personality and advisory structures shape national security policy.
+
+## 8. Zhihua Shen and Yafeng Xia — A Misunderstood Friendship: Mao Zedong, Kim Il-sung, and Sino-North Korean Relations, 1949–1976
+
+**Assigned:** Revised edition (2020), pp. 44–76.
+
+**Access:** https://books.google.com/books?q=Shen+Xia+A+Misunderstood+Friendship
+
+**Status:** Book search/preview; complete assigned pages not verified.
+
+**Main argument:** Relations between China and North Korea were shaped by divergent national interests, political calculations, and competing leadership priorities rather than straightforward ideological solidarity. The Korean War must therefore be understood through the distinct strategic calculations of Beijing and Pyongyang.
+
+**Key takeaway:** Ideological alignment does not eliminate differences in national interests or guarantee strategic coordination.
+
+---
+
+## Lesson Synthesis
+
+**Gaddis and Nitze:** Threat assessments and strategic assumptions shape containment policy.
+
+**Stewart:** The Korean War evolved from maneuver to stalemate as political and military conditions changed.
+
+**Marston:** Nuclear-era strategy requires limited objectives and escalation management.
+
+**Stoker:** Limited war is defined principally by political objectives, not necessarily limited military means.
+
+**Dingman:** Nuclear superiority does not guarantee effective diplomatic coercion.
+
+**Masuda:** MacArthur illustrates the interaction of individual leadership, institutional context, and civilian authority.
+
+**Preston:** Presidential leadership styles and advisory systems shape strategic decision-making.
+
+**Shen and Xia:** Chinese and North Korean interests were not identical despite ideological alignment.
+
+## Central Analytical Questions
+
+1. How did American strategic objectives change during the Korean War?
+2. Why did the United States transition from defending South Korea to pursuing reunification and then return to limited objectives?
+3. How did the emergence of nuclear weapons affect escalation management?
+4. Was Truman justified in relieving General Douglas MacArthur?
+5. What distinguishes limited war from unlimited war?
+6. How did domestic politics, leadership styles, and civil-military relationships influence the conflict?
+7. Why did China intervene, and how did Chinese and North Korean objectives differ?
+
+## Core Takeaway
+
+The Korean War demonstrated that military victory and strategic success are not synonymous. Political objectives, escalation risks, alliance relationships, civil-military tensions, and nuclear considerations constrain how military power can be employed.
+
+**Central lesson:** Effective strategy requires subordinating military operations to achievable political objectives while accounting for adversary responses and the dangers of escalation.
