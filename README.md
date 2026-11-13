@@ -1712,3 +1712,186 @@ The United States gradually translated its industrial superiority, intelligence 
 The Korean War demonstrated that military victory and strategic success are not synonymous. Political objectives, escalation risks, alliance relationships, civil-military tensions, and nuclear considerations constrain how military power can be employed.
 
 **Central lesson:** Effective strategy requires subordinating military operations to achievable political objectives while accounting for adversary responses and the dangers of escalation.
+
+
+# SEST 5000 — Class 11: Strategic Use of Force
+
+## 1. Thomas C. Schelling — Arms and Influence
+
+**Assigned:** pp. vii–xi and 1–125.
+
+**Access:** https://yalebooks.yale.edu/book/9780300002218/arms-and-influence/
+
+**Status:** Publisher page; complete assigned pages not verified freely accessible.
+
+**Main argument:** Military power is useful not only for physically defeating an enemy but also for influencing its decisions through threats, bargaining, and the manipulation of risk. Coercive power depends on what an adversary believes one can and will do.
+
+**Key concepts:** Deterrence, compellence, coercive diplomacy, credibility, brinkmanship, and threats that leave something to chance.
+
+**Key takeaway:** The strategic value of military force often comes from the ability to influence an adversary's choices without actually fighting.
+
+## 2. Robert J. Art and Kelly M. Greenhill — The Power and Limits of Compellence: Research Note
+
+**Assigned:** *Political Science Quarterly* 133, no. 1 (2018), pp. 77–97.
+
+**Access:** https://scholar.google.com/scholar?q=Art+Greenhill+The+Power+and+Limits+of+Compellence
+
+**Status:** Scholarly search; unrestricted full text not verified.
+
+**Main argument:** Compellence is generally difficult because it requires an adversary to alter existing behavior, often at significant political or strategic cost. Its effectiveness depends on the interests at stake, the credibility of threatened consequences, and the target's available alternatives.
+
+**Key takeaway:** Compellence differs from deterrence because it seeks behavioral change rather than the preservation of the status quo.
+
+## 3. Paul Avey — When Nuclear Weapons Fail to Deter: The Ultimate Weapon Is Not Always the Best Defense
+
+**Assigned:** *Foreign Affairs*, March 6, 2025, pp. 1–8.
+
+**Access:** https://www.foreignaffairs.com/search?keyword=When%20Nuclear%20Weapons%20Fail%20to%20Deter
+
+**Status:** Publication search; article may require subscription.
+
+**Main argument:** Nuclear weapons do not automatically deter all forms of aggression. Adversaries may calculate that limited military action, conventional conflict, or challenges below the nuclear threshold will not provoke nuclear retaliation.
+
+**Key takeaway:** Nuclear deterrence is conditional on credibility, stakes, and the particular behavior a state seeks to prevent.
+
+## 4. Janice Gross Stein — Escalation Management in Ukraine: Learning By Doing in Response to the Threat That Leaves Something to Chance
+
+**Assigned:** *Texas National Security Review* 6, no. 3 (Summer 2023), pp. 30–50.
+
+**Free full text:**
+https://tnsr.org/2023/06/escalation-management-in-ukraine-learning-by-doing-in-response-to-the-threat-that-leaves-something-to-chance/
+
+**Status:** Open-access journal article.
+
+**Main argument:** Russia attempted to constrain Western assistance to Ukraine by manipulating uncertainty about nuclear escalation. The United States responded with incremental military assistance, reassurance, and repeated assessments of Russian reactions. Stein characterizes this as pragmatic learning by doing.
+
+**Key evidence:** Russian nuclear signaling; U.S. restrictions on direct NATO intervention; incremental delivery of advanced weapons; efforts to communicate escalation boundaries.
+
+**Key takeaway:** Escalation management involves navigating uncertainty dynamically, but repeated success in avoiding escalation can generate dangerous overconfidence.
+
+---
+
+## Lesson Synthesis
+
+**Schelling:** Coercive power operates through threats, credibility, and manipulation of risk.
+
+**Art and Greenhill:** Compellence is difficult because it requires an adversary to change behavior.
+
+**Avey:** Nuclear weapons cannot reliably deter every form of aggression.
+
+**Stein:** Escalation management requires adaptation, communication, and careful handling of uncertainty.
+
+## Central Analytical Questions
+
+1. What distinguishes deterrence from compellence?
+2. What makes a coercive threat credible?
+3. How does Schelling's manipulation of risk work?
+4. Why might nuclear superiority fail to deter limited aggression?
+5. How can states manage escalation without surrendering their strategic objectives?
+
+## Core Takeaway
+
+Coercive strategy depends not simply on possessing military capabilities, but on shaping an adversary's expectations, incentives, and perceptions of risk.
+
+**Central lesson:** Military power becomes strategically useful when it changes an adversary's choices in ways that advance political objectives.
+
+
+# SEST 5001 — Insurgency and Counterinsurgency Tactics and Strategy: The French in Algeria
+
+## 1. Mao Tse-Tung — On Protracted War
+
+**Assigned:** pp. 136–145 in *Selected Works of Mao Tse-Tung*, Vol. 2 (Foreign Languages Press, 1967).
+
+**Free full PDF:**
+https://www.marxists.org/reference/archive/mao/selected-works/sw-in-pdf/sw-flp-1965-v2.pdf
+
+**Readable HTML:**
+https://marx2mao.redspark.nu/Mao/PW38.html
+
+**Status:** Free full text; assigned pages correspond to the sections on the stages of protracted war and the transition to the discussion of the war's pattern.
+
+**Main argument:** A materially weaker force can defeat a stronger adversary through a prolonged struggle that transforms the balance of political and military power over time. Mao identifies strategic defensive, strategic stalemate, and strategic counteroffensive as the major stages of protracted war.
+
+**Key takeaway:** Military inferiority need not determine the final outcome when a weaker actor can sustain resistance, mobilize political support, and gradually alter the correlation of forces.
+
+## 2. Prashant Kumar Singh — Rereading Mao's Military Thinking
+
+**Assigned:** *Strategic Analysis* 37, no. 5 (2013), pp. 558–580.
+
+**Access:** https://scholar.google.com/scholar?q=Prashant+Kumar+Singh+Rereading+Mao%27s+Military+Thinking
+
+**Status:** Scholarly search; unrestricted full text not verified.
+
+**Main argument:** Mao's military thought must be understood in its historical and political context. His strategic concepts developed in response to China's particular military weaknesses, revolutionary objectives, and changing political circumstances rather than as universal prescriptions for guerrilla warfare.
+
+**Key takeaway:** Maoist military strategy integrates political mobilization, organizational development, and armed struggle into a broader revolutionary project.
+
+## 3. Roger Trinquier — Modern Warfare: A French View of Counterinsurgency
+
+**Assigned:** pp. 1–21.
+
+**Access:** https://books.google.com/books?q=Roger+Trinquier+Modern+Warfare+A+French+View+of+Counterinsurgency
+
+**Status:** Book search/preview; complete assigned pages not verified.
+
+**Main argument:** Modern revolutionary warfare differs fundamentally from conventional interstate conflict because insurgents operate through clandestine political organizations embedded within civilian populations. Defeating insurgency therefore requires intelligence, population control, and disruption of the insurgent's political-military network.
+
+**Key takeaway:** Counterinsurgency must target the organizational structures that sustain rebellion, not merely the insurgent's armed forces.
+
+## 4. David Galula — Counterinsurgency Warfare: Theory and Practice
+
+**Assigned:** Entire book (Praeger Security International edition).
+
+**Access:** https://books.google.com/books?q=David+Galula+Counterinsurgency+Warfare+Theory+and+Practice
+
+**Status:** Book search/preview; complete assigned text not verified freely accessible.
+
+**Main argument:** Insurgency is fundamentally a political struggle for control of the population. The counterinsurgent cannot succeed through military force alone but must establish security, build political legitimacy, organize local support, and isolate insurgents from the communities on which they depend.
+
+**Key concepts:** Population-centric counterinsurgency, legitimacy, political organization, security, and the asymmetry between insurgents and counterinsurgents.
+
+**Key takeaway:** Military operations are necessary but insufficient; durable victory depends on establishing political authority and winning the population's cooperation.
+
+## 5. Martin Alexander and J. F. V. Keiger — France and the Algerian War: Strategy, Operations, and Diplomacy
+
+**Assigned:** *Journal of Strategic Studies* 25, no. 2 (June 2002), pp. 1–32.
+
+**Access:** https://scholar.google.com/scholar?q=Alexander+Keiger+France+and+the+Algerian+War+Strategy+Operations+Diplomacy
+
+**Status:** Scholarly search; unrestricted full text not verified.
+
+**Main argument:** France's experience in Algeria demonstrates the difficulty of reconciling tactical military effectiveness with political legitimacy and achievable strategic objectives. French forces achieved important battlefield successes but failed to establish a sustainable political settlement that preserved French rule.
+
+**Key evidence:** The FLN insurgency, French population-control operations, torture and repression, the Battle of Algiers, domestic political upheaval in France, and de Gaulle's eventual acceptance of Algerian independence.
+
+**Key takeaway:** A state can achieve considerable tactical success against an insurgency while suffering strategic defeat because military operations cannot substitute for a viable political end state.
+
+---
+
+## Lesson Synthesis
+
+**Mao:** A weaker force can prevail through protracted struggle, political mobilization, and the gradual transformation of military conditions.
+
+**Singh:** Maoist military strategy is inseparable from its revolutionary and historical context.
+
+**Trinquier:** Counterinsurgency requires intelligence and the disruption of clandestine insurgent organizations.
+
+**Galula:** The population is the decisive political terrain in counterinsurgency.
+
+**Alexander and Keiger:** France's military successes in Algeria could not overcome the political contradictions of its colonial strategy.
+
+## Central Analytical Questions
+
+1. How does insurgency differ from conventional warfare?
+2. Why does Mao believe a weaker actor can defeat a stronger opponent?
+3. How do Trinquier and Galula differ in their approaches to counterinsurgency?
+4. What role does political legitimacy play in defeating insurgencies?
+5. Why did France ultimately withdraw from Algeria despite substantial military successes?
+6. Can counterinsurgency succeed without violating human rights?
+7. How does the Algerian War illustrate Clausewitz's distinction between political objectives and military operations?
+
+## Core Takeaway
+
+Insurgency is fundamentally a contest over political authority and popular support. Military force can weaken insurgent organizations, but it cannot independently establish a legitimate and sustainable political order.
+
+**Central lesson:** Tactical success does not guarantee strategic victory when military operations fail to produce the desired political outcome.
