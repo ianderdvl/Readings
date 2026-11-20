@@ -1895,3 +1895,236 @@ https://marx2mao.redspark.nu/Mao/PW38.html
 Insurgency is fundamentally a contest over political authority and popular support. Military force can weaken insurgent organizations, but it cannot independently establish a legitimate and sustainable political order.
 
 **Central lesson:** Tactical success does not guarantee strategic victory when military operations fail to produce the desired political outcome.
+
+
+# SEST 5001 — The Strategy of Fighting a Limited War: Yom Kippur/Ramadan War
+
+## 1. Nadav Safran — Trial by Ordeal: The Yom Kippur War, October 1973
+
+**Assigned:** *International Security* 2, no. 2 (Fall 1977), pp. 133–170.
+
+**Access:** https://scholar.google.com/scholar?q=Nadav+Safran+Trial+by+Ordeal+Yom+Kippur+War
+
+**Status:** Scholarly search; unrestricted full text not verified.
+
+**Main argument:** The October 1973 War exposed weaknesses in Israeli strategic assumptions and demonstrated how Egypt and Syria could challenge an apparently superior military power through surprise, coordination, and carefully chosen operational objectives. The war's political consequences extended beyond its battlefield outcome.
+
+**Key concepts:** Strategic surprise, deterrence failure, intelligence assessments, operational planning, alliance coordination, and political outcomes.
+
+**Key takeaway:** Military superiority does not guarantee strategic security when an adversary identifies and exploits weaknesses in established assumptions and defensive arrangements.
+
+## 2. Robert S. Bolia — Overreliance on Technology in Warfare: The Yom Kippur War as a Case Study
+
+**Assigned:** *Parameters* 34, no. 2 (2004), pp. 46–55.
+
+**Access:** https://press.armywarcollege.edu/parameters/
+
+**Status:** Official open-access journal homepage; direct article link not independently verified.
+
+**Main argument:** Israel's initial difficulties in the 1973 war demonstrate the dangers of excessive confidence in technological superiority. Egyptian and Syrian forces employed weapons and tactics that exploited Israeli vulnerabilities, particularly through integrated air defenses and anti-tank weapons.
+
+**Key concepts:** Technological determinism, combined arms, surface-to-air missiles, anti-tank guided missiles, operational adaptation, and military doctrine.
+
+**Key takeaway:** Technology produces military advantages only when integrated into effective doctrine, training, intelligence, and operational planning.
+
+## 3. Ahron Bregman — Israel's Wars
+
+**Assigned:** pp. 108–144 (Routledge, 2002).
+
+**Access:** https://books.google.com/books?q=Ahron+Bregman+Israel%27s+Wars
+
+**Status:** Book search/preview; assigned pages not verified freely accessible.
+
+**Main argument:** The 1973 Arab-Israeli War emerged from unresolved political disputes following Israel's 1967 victory, the failure of diplomacy, and competing regional objectives. Israeli intelligence failures and military setbacks were followed by operational recovery, but the war fundamentally altered the regional diplomatic environment.
+
+**Key concepts:** Strategic surprise, Israeli security doctrine, Arab military objectives, deterrence, and postwar diplomacy.
+
+**Key takeaway:** The 1973 war demonstrated that an apparently favorable military status quo could be politically unstable and vulnerable to deliberate disruption.
+
+## 4. Mitch Ginsburg — Golda Meir: My Heart Was Drawn to a Preemptive Strike, But I Was Scared
+
+**Assigned:** *The Times of Israel*, September 12, 2013.
+
+**Access:** https://www.timesofisrael.com/?s=Golda+Meir+preemptive+strike
+
+**Status:** Publication search; direct article URL not independently verified.
+
+**Main argument:** Newly available accounts of Golda Meir's decision-making reveal the political and strategic dilemmas confronting Israel immediately before the October 1973 attack. Although Israeli leaders had indications of impending war, they feared that launching a preemptive strike would carry substantial diplomatic costs.
+
+**Key concepts:** Preemption, strategic warning, alliance dependence, political restraint, and decision-making under uncertainty.
+
+**Key takeaway:** Military opportunities must be evaluated against political consequences; preemptive action can be strategically counterproductive even when operationally attractive.
+
+## 5. Risa A. Brooks — Civil-Military Relations and Military Effectiveness: Egypt in the 1967 and 1973 Wars
+
+**Assigned:** pp. 106–129 in *Creating Military Power: The Sources of Military Effectiveness* (2007).
+
+**Access:** https://books.google.com/books?q=Risa+Brooks+Civil+Military+Relations+Military+Effectiveness+Egypt
+
+**Status:** Book search/preview; complete assigned chapter not verified freely accessible.
+
+**Main argument:** Egypt's military performance improved substantially between 1967 and 1973 in connection with changes in political leadership, civil-military relations, and military organization. Political and institutional arrangements influenced Egypt's capacity to plan, coordinate, and execute military operations.
+
+**Key concepts:** Civil-military relations, military effectiveness, institutional reform, command structures, and strategic leadership.
+
+**Key takeaway:** Military effectiveness is shaped not merely by equipment and manpower but by the political and organizational institutions governing the armed forces.
+
+## 6. Hasan Badri, Taha Magdoub, and Dia El Din Zohdy — The Ramadan War 1973
+
+**Assigned:** pp. 9–27; skim Chapter 1 and read Chapter 2.
+
+**Access:** https://books.google.com/books?q=The+Ramadan+War+1973+Badri+Magdoub+Zohdy
+
+**Status:** Book search/preview; assigned pages not verified freely accessible.
+
+**Main argument:** The Egyptian account emphasizes the planning and execution of the October 1973 offensive, particularly the relationship between Egypt's military preparations and its limited strategic objectives. Egyptian forces sought to overcome Israeli defenses through coordination, surprise, and concentrated operations.
+
+**Key concepts:** Limited war, crossing the Suez Canal, operational surprise, Egyptian military planning, and political-military objectives.
+
+**Key takeaway:** A state can employ limited military operations to change an unfavorable political situation without seeking the complete military destruction of its opponent.
+
+## 7. Eyal Zisser — Syria and the October War: The Missed Opportunity
+
+**Assigned:** Chapter 5, pp. 67–84, in *The Yom Kippur War: Politics, Legacy, Diplomacy* (2013).
+
+**Access:** https://books.google.com/books?q=Eyal+Zisser+Syria+October+War+Missed+Opportunity
+
+**Status:** Book search/preview; complete assigned chapter not verified freely accessible.
+
+**Main argument:** Syria entered the October 1973 War with objectives and strategic calculations that differed from Egypt's. The conflict exposed limitations in Syrian planning and coordination, and the postwar outcome did not produce the same diplomatic opportunities that Egypt ultimately exploited.
+
+**Key concepts:** Coalition warfare, divergent national objectives, Syrian strategy, the Golan Heights, and diplomatic outcomes.
+
+**Key takeaway:** Military allies may cooperate operationally while pursuing different political objectives, complicating both wartime strategy and the assessment of victory.
+
+---
+
+## Lesson Synthesis
+
+**Safran:** The war revealed weaknesses in Israeli strategic assumptions and demonstrated the political consequences of military surprise.
+
+**Bolia:** Excessive reliance on technology can create vulnerabilities when doctrine and tactics fail to adapt.
+
+**Bregman:** The war transformed the regional strategic environment and opened new diplomatic possibilities.
+
+**Ginsburg:** Golda Meir's decision against preemption illustrates the tension between military opportunities and diplomatic constraints.
+
+**Brooks:** Egyptian military effectiveness improved through changes in political leadership and military institutions.
+
+**Badri et al.:** Egypt used a carefully prepared military offensive to pursue limited political objectives.
+
+**Zisser:** Syrian and Egyptian strategic interests diverged, complicating their coalition and producing different political outcomes.
+
+## Central Analytical Questions
+
+1. What was Anwar Sadat's political objective in initiating the 1973 war?
+2. Why did Egypt pursue a limited offensive rather than attempt the complete destruction of Israeli forces?
+3. How could Egypt achieve political success despite Israel's eventual battlefield recovery?
+4. Why did Israel fail to prevent or anticipate the attack effectively?
+5. How did military technology influence the opening phases of the conflict?
+6. What role did civil-military relations play in Egypt's improved performance?
+7. Why did Egyptian and Syrian strategic objectives diverge?
+8. Who won the war, and how does the answer change when measured against political rather than operational objectives?
+
+## Core Takeaway
+
+Egypt's strategy under Sadat illustrates how limited military force can produce significant political effects even without decisive battlefield victory. By disrupting the post-1967 status quo, Egypt created opportunities for diplomatic negotiation that had previously been unavailable.
+
+**Central lesson:** Strategic victory must be measured against political objectives, not simply territory captured, enemy forces destroyed, or battles won.
+
+## Connection to Clausewitz
+
+Clausewitz's understanding of war as an instrument of policy is particularly useful here.
+
+Sadat did not need to conquer Israel to achieve his political objectives. He needed to demonstrate that maintaining the existing territorial and diplomatic situation carried unacceptable costs.
+
+The October 1973 War therefore illustrates how the effective relationship between military means and political ends can matter more than battlefield superiority.
+
+
+# SEST 5000 — Class 12: Ethics
+
+## 1. Michael Walzer — Just and Unjust Wars
+
+**Assigned:** pp. ix–xviii; Chapters 3, 5, 6, 8, 9, 11, 12, and 14.
+
+**Access:** https://books.google.com/books?q=Michael+Walzer+Just+and+Unjust+Wars
+
+**Status:** Book search/preview; complete assigned chapters not verified freely accessible.
+
+**Main argument:** The morality of war must be evaluated through two distinct but related frameworks: the justice of resorting to war (*jus ad bellum*) and the justice of conduct within war (*jus in bello*). Walzer defends a moral framework centered on political sovereignty, resistance to aggression, civilian immunity, and constraints on military necessity.
+
+**Key concepts:** Just war theory, aggression, sovereignty, self-defense, noncombatant immunity, proportionality, military necessity, and the moral equality of soldiers.
+
+**Key evidence and applications:** Historical cases of aggression, anticipatory self-defense, intervention, wartime responsibility, and the treatment of civilians.
+
+**Key takeaway:** A just cause does not automatically justify every means of fighting, and the moral evaluation of warfare must distinguish political objectives from battlefield conduct.
+
+## 2. Oona A. Hathaway — War Unbound: Gaza, Ukraine, and the Breakdown of International Law
+
+**Assigned:** *Foreign Affairs* 103, no. 3 (May/June 2024), pp. 84–96.
+
+**Access:** https://www.foreignaffairs.com/search?keyword=War%20Unbound
+
+**Status:** Publication search; full article may require subscription.
+
+**Main argument:** The wars in Ukraine and Gaza expose serious weaknesses in the international legal order's ability to constrain violence. Hathaway examines how the erosion of international legal commitments, inconsistent enforcement, and challenges to accountability threaten the rules governing the use of force.
+
+**Key concepts:** UN Charter, prohibition on aggressive war, international humanitarian law, civilian protection, accountability, and institutional legitimacy.
+
+**Key takeaway:** International law's effectiveness depends not only on formal legal rules but also on political commitment, institutional enforcement, and consistent application.
+
+## 3. Michael N. Schmitt — Cyber Symposium: The Evolution of Cyber Jus ad Bellum Thresholds
+
+**Assigned:** *Articles of War*, Lieber Institute, West Point, July 28, 2022.
+
+**Access:** https://lieber.westpoint.edu/?s=Evolution+of+Cyber+Jus+ad+Bellum+Thresholds
+
+**Status:** Official publication search; direct article URL not independently verified.
+
+**Main argument:** The application of international law to cyber operations has evolved as states clarify when malicious cyber activities constitute prohibited uses of force or armed attacks. The legal classification of cyber operations depends on their effects and the applicable thresholds under the UN Charter.
+
+**Key concepts:** Jus ad bellum, use of force, armed attack, sovereignty, self-defense, and cyber operations below the threshold of armed conflict.
+
+**Key takeaway:** Cyber operations challenge traditional legal categories, but existing international law provides a framework for distinguishing hostile activity from conduct that legally justifies forceful self-defense.
+
+## 4. Nathan G. Wood — Bombs, Bots, and the Principle of Distinction: The Law of Armed Conflict and Contemporary Warfare
+
+**Assigned:** *Texas National Security Review* 9, no. 1 (Winter 2026), pp. 52–67.
+
+**Access:** https://tnsr.org/
+
+**Status:** Official open-access journal homepage; exact article URL not independently verified.
+
+**Main argument:** The principle of distinction requires parties to armed conflict to differentiate between legitimate military targets and protected civilians and civilian objects. Emerging technologies, including autonomous systems, raise questions about how targeting decisions can satisfy these obligations.
+
+**Key concepts:** Distinction, civilian immunity, targeting, autonomous weapons, proportionality, and the law of armed conflict.
+
+**Key takeaway:** Technological innovation does not eliminate the obligation to distinguish military targets from protected persons and objects; it changes how that obligation must be implemented and assessed.
+
+---
+
+## Lesson Synthesis
+
+**Walzer:** War must be evaluated through separate moral frameworks governing the decision to fight and the conduct of fighting.
+
+**Hathaway:** The international legal order is vulnerable when states disregard or inconsistently enforce its central rules.
+
+**Schmitt:** Cyber operations require careful interpretation of existing legal thresholds for force and self-defense.
+
+**Wood:** Emerging weapons technologies complicate, but do not eliminate, established obligations to protect civilians.
+
+## Central Analytical Questions
+
+1. What is the difference between jus ad bellum and jus in bello?
+2. Can a war be justly initiated but unjustly conducted?
+3. What distinguishes military necessity from moral or legal permissibility?
+4. How does international law constrain the use of force between states?
+5. When might a cyber operation qualify as an armed attack?
+6. Can autonomous weapons satisfy the principle of distinction?
+7. Are traditional just war principles adequate for modern warfare?
+
+## Core Takeaway
+
+The ethical evaluation of war requires distinguishing the legitimacy of political objectives from the permissibility of military methods.
+
+**Central lesson:** Neither a just cause nor technological capability exempts states from moral and legal constraints on the use of force.
