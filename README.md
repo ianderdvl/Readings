@@ -2128,3 +2128,322 @@ The October 1973 War therefore illustrates how the effective relationship betwee
 The ethical evaluation of war requires distinguishing the legitimacy of political objectives from the permissibility of military methods.
 
 **Central lesson:** Neither a just cause nor technological capability exempts states from moral and legal constraints on the use of force.
+
+
+# SEST 5000 — Class 13: Internal Conflict and Humanitarian Intervention
+
+## 1. Barbara F. Walter — The Critical Barrier to Civil War Settlement
+
+**Assigned:** International Organization 51, no. 3 (Summer 1997), pp. 335–364.
+
+**PDF access:**
+https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4952695_code5646990.pdf?abstractid=4952695&mirid=1
+
+**Alternative access:**
+https://ssrn.com/abstract=4952695
+
+**Main argument:** Civil wars are particularly difficult to resolve through negotiated settlements because opposing parties cannot credibly guarantee one another's security following demobilization. Disarmament leaves former combatants vulnerable to exploitation by their opponents.
+
+**Causal mechanism:** Negotiated settlement → demobilization → vulnerability → inability to credibly guarantee future security → continued fighting.
+
+**Evidence:** Walter examines civil wars between 1940 and 1990, contrasting successful third-party guarantees with failed attempts at negotiated settlement.
+
+**Key concepts:** Commitment problems, credible guarantees, security dilemmas, third-party intervention, and demobilization.
+
+**Key takeaway:** Civil wars may persist even when both sides would prefer peace because neither can safely commit to the terms of a settlement without credible external guarantees.
+
+---
+
+## 2. Samantha Power — Bystanders to Genocide: Why the United States Let the Rwandan Tragedy Happen
+
+**Assigned:** Atlantic Monthly 288, no. 2 (September 2001), pp. 84–108.
+
+**Free full PDF:**
+https://web.stanford.edu/~sstedman/2006.readings/bystanders.pdf
+
+**Status:** Open-access copy hosted by Stanford University.
+
+**Main argument:** American inaction during the Rwandan genocide resulted not simply from ignorance but from institutional incentives, political risk aversion, competing priorities, and an unwillingness to assume responsibility for intervention.
+
+**Causal mechanism:** Limited perceived national interests + anticipated political and military costs + bureaucratic avoidance → unwillingness to intervene despite mounting evidence of genocide.
+
+**Evidence:** Declassified government documents, interviews with policymakers, the legacy of the Somalia intervention, and American diplomatic decisions during the genocide.
+
+**Key concepts:** Bureaucratic politics, political will, humanitarian intervention, risk aversion, and institutional responsibility.
+
+**Key takeaway:** Knowledge of an unfolding humanitarian catastrophe does not necessarily produce intervention when political and institutional incentives favor inaction.
+
+---
+
+## 3. Gareth Evans and Mohamed Sahnoun — The Responsibility to Protect
+
+**Assigned:** Foreign Affairs 81, no. 6 (November–December 2002), pp. 99–110.
+
+**Article search:**
+https://scholar.google.com/scholar?q=Gareth+Evans+Mohamed+Sahnoun+The+Responsibility+to+Protect+2002
+
+**Free supplementary resource — original 2001 commission report:**
+https://idrc-crdi.ca/sites/default/files/openebooks/960-7/index.html
+
+**Status:** The original commission report is freely accessible. It is closely related to, but not a substitute for, the assigned 2002 article. Free access to the exact article remains unverified.
+
+**Main argument:** Sovereignty entails responsibilities toward populations rather than merely granting governments protection from external interference. When governments cannot or will not protect their populations from mass atrocities, international actors may acquire responsibilities to respond.
+
+**Key concepts:**
+- Sovereignty as responsibility.
+- Responsibility to prevent.
+- Responsibility to react.
+- Responsibility to rebuild.
+- Just cause, proportional means, last resort, and reasonable prospects of success.
+
+**Key takeaway:** Humanitarian intervention should be conceptualized around the protection of vulnerable populations rather than the intervening state's claimed right to intervene.
+
+---
+
+## 4. Roland Paris — The 'Responsibility to Protect' and the Structural Problems of Preventive Humanitarian Intervention
+
+**Assigned:** International Peacekeeping 21, no. 5 (2014), pp. 569–603.
+
+**Free full text:**
+https://www.tandfonline.com/doi/full/10.1080/13533312.2014.963322
+
+**PDF:**
+https://www.tandfonline.com/doi/pdf/10.1080/13533312.2014.963322
+
+**Status:** Open-access journal article.
+
+**Main argument:** Preventive humanitarian intervention suffers from structural contradictions that cannot easily be resolved through better doctrine, planning, or implementation.
+
+**Five structural problems:**
+
+1. Mixed motives: National interests can make intervention politically sustainable but simultaneously undermine its humanitarian legitimacy.
+2. Counterfactual problem: Successful prevention makes it difficult to prove that the catastrophe would otherwise have occurred.
+3. Conspicuous harm: Civilian suffering caused by intervention is visible, whereas suffering successfully prevented is largely invisible.
+4. End-state problem: Protecting civilians can generate pressure to expand military objectives, including toward regime change.
+5. Inconsistency problem: Selective intervention undermines the legitimacy and credibility of the doctrine.
+
+**Evidence:** The 2011 intervention in Libya and the tensions between its humanitarian mandate, military implementation, and political consequences.
+
+**Key takeaway:** Even well-intentioned humanitarian interventions can undermine their own legitimacy through contradictions inherent in the strategic logic of preventive action.
+
+---
+
+## 5. Richard K. Betts — The Delusion of Impartial Intervention
+
+**Assigned:** Foreign Affairs 73, no. 6 (November–December 1994), pp. 20–33.
+
+**Access:**
+https://scholar.google.com/scholar?q=Richard+Betts+The+Delusion+of+Impartial+Intervention
+
+**Status:** Scholarly search; unrestricted full text not verified.
+
+**Main argument:** External military intervention in civil conflict cannot reliably remain impartial while simultaneously determining the political or military outcome. Effective intervention necessarily alters the balance of power among competing groups.
+
+**Causal mechanism:** Intervention changes relative capabilities → changes bargaining leverage → redistributes political advantage → compromises substantive impartiality.
+
+**Key concepts:** Neutrality, impartiality, political objectives, military intervention, and strategic commitment.
+
+**Key takeaway:** Interveners cannot expect to impose a political settlement through force while remaining genuinely neutral toward its consequences.
+
+---
+
+## Lesson Synthesis
+
+**Walter:** Explains why civil wars resist negotiated settlement through credible commitment problems.
+
+**Power:** Explains why governments fail to intervene even when humanitarian catastrophes are understood.
+
+**Evans and Sahnoun:** Establish the normative framework for international responsibility to protect vulnerable populations.
+
+**Paris:** Identifies structural contradictions that undermine preventive humanitarian intervention.
+
+**Betts:** Challenges the assumption that military intervention can be both impartial and strategically effective.
+
+## Central Analytical Questions
+
+1. Why are civil wars particularly difficult to terminate through negotiation?
+2. How do credible commitment problems prevent disarmament?
+3. Under what conditions can third-party security guarantees facilitate peace?
+4. Why do states abstain from intervention despite knowledge of mass atrocities?
+5. When should sovereignty yield to humanitarian obligations?
+6. Can humanitarian intervention remain impartial?
+7. Can interveners protect civilians without becoming responsible for determining a conflict's political outcome?
+
+## Core Takeaway
+
+Humanitarian intervention presents a tension between moral obligations, political incentives, and strategic feasibility.
+
+External actors must possess not only the willingness to intervene but also the capacity and commitment necessary to produce a sustainable political settlement.
+
+**Central lesson:** Intervention is not inherently a solution to internal conflict. Its effectiveness depends on whether it addresses the causal mechanisms sustaining violence.
+
+
+---
+
+# SEST 5001 — Reassessing and Redirecting an Ongoing War: The Iraq Surge
+
+## 1. Bob Woodward — The War Within: A Secret White House History 2006–2008
+
+**Assigned:** Entire book. Simon & Schuster, 2008.
+
+**Access:**
+https://books.google.com/books?q=Bob+Woodward+The+War+Within+A+Secret+White+House+History
+
+**Status:** Book search and preview; free access to the complete assigned book not verified.
+
+**Main focus:** Woodward reconstructs the internal decision-making process through which the Bush administration reassessed its failing Iraq strategy and ultimately adopted the 2007 troop surge.
+
+**Central issues:**
+
+- Recognition that the existing strategy was failing.
+- Competing assessments of the underlying conflict.
+- Disagreement between senior military and civilian officials.
+- The influence of alternative advisers and informal decision-making channels.
+- President Bush's management of dissent and strategic reassessment.
+- The relationship between domestic political pressures and wartime decisions.
+- Implementation of the revised strategy.
+
+**Key actors:**
+
+- George W. Bush — President.
+- Donald Rumsfeld — Secretary of Defense until December 2006.
+- Robert Gates — Rumsfeld's successor.
+- Condoleezza Rice — Secretary of State.
+- Stephen Hadley — National Security Advisor.
+- General George Casey — Commander of Multinational Force–Iraq before the surge.
+- General John Abizaid — Commander of U.S. Central Command.
+- General David Petraeus — Commander of Multinational Force–Iraq during the surge.
+
+**Key concepts:** Civil-military relations, strategic reassessment, bureaucratic politics, presidential leadership, groupthink, organizational resistance, and decision-making under uncertainty.
+
+**Key takeaway:** Redirecting a failing war requires more than identifying a better military strategy; it also requires overcoming institutional resistance and constructing sufficient political and organizational support for implementation.
+
+**Reading lens:** Consider whether Bush possessed a coherent strategy for generating, evaluating, and ultimately selecting strategic alternatives.
+
+---
+
+## 2. Peter D. Feaver — The Right to Be Right: Civil-Military Relations and the Iraq Surge Decision
+
+**Assigned:** International Security 35, no. 4 (Spring 2011), pp. 87–125.
+
+**Free full PDF:**
+https://www.belfercenter.org/sites/default/files/pantheon_files/files/publication/ISEC_a_00033-Feaver_proof2_updated.pdf
+
+**Harvard Belfer Center article page:**
+https://www.belfercenter.org/publication/right-be-right-civil-military-relations-and-iraq-surge-decision
+
+**Status:** Publicly accessible PDF hosted by Harvard University.
+
+**Main argument:** The Iraq surge decision vindicates neither military professional supremacy nor unrestricted civilian intervention in military affairs. Bush succeeded in implementing the surge through a hybrid approach to civil-military relations.
+
+### Competing Models
+
+**Professional supremacy:** Civilian leaders should substantially defer to military expertise concerning wartime strategy and operations.
+
+**Civilian supremacy:** Elected civilian leaders must exercise authoritative strategic direction, including when their preferences conflict with military advice.
+
+### Feaver's Findings
+
+Had Bush fully deferred to his senior military commanders, the surge would not have occurred because influential commanders opposed it.
+
+Had Bush simply imposed his preferred strategy without managing military opposition, he risked provoking military dissent that could undermine the policy's domestic political support.
+
+Instead, Bush exercised civilian authority while managing the decision-making process to secure sufficient military cooperation.
+
+**Causal mechanism:** Civilian strategic direction + alternative military expertise + management of institutional dissent + sufficient organizational support → successful implementation of a strategic redirection.
+
+**Evidence:** Published accounts of the surge decision and interviews with senior participants.
+
+**Key takeaway:** Effective civilian control requires not merely the authority to overrule military advice but the ability to manage civil-military disagreement while preserving institutional cooperation.
+
+**Connection to Eliot Cohen:** The case illustrates the potential value of an unequal dialogue between civilian and military leaders rather than a rigid separation of political and military responsibilities.
+
+---
+
+## 3. Kelly McHugh — A Tale of Two Surges: Comparing the Politics of the 2007 Iraq Surge and the 2009 Afghanistan Surge
+
+**Assigned:** SAGE Open (October–December 2015), pp. 1–16.
+
+**Free full text:**
+https://journals.sagepub.com/doi/10.1177/2158244015621957
+
+**PDF:**
+https://journals.sagepub.com/doi/pdf/10.1177/2158244015621957
+
+**Status:** Open-access journal article.
+
+**Main argument:** The political circumstances surrounding the Iraq and Afghanistan surges shaped the presidents' ability to frame their respective strategies, manage competing interests, and build political support.
+
+### Iraq Surge, 2007
+
+Bush faced:
+
+- Declining public support for the Iraq War.
+- A hostile Democratic-controlled Congress.
+- Internal disagreement within the administration and military.
+- Competing narratives about whether the war remained winnable.
+
+Bush was unable to restore broad public support for the war but maintained enough Republican and institutional support to prevent Congress from blocking the surge.
+
+### Afghanistan Surge, 2009
+
+Obama faced a different political environment, including divisions within his own coalition, competing military recommendations, and disagreements over the appropriate scope and duration of American involvement.
+
+The resulting strategy reflected the interaction of military assessments, presidential preferences, political pressures, and competing interpretations of the conflict.
+
+**Key concepts:** Presidential framing, public opinion, congressional opposition, bureaucratic politics, elite consensus, and civil-military relations.
+
+**Key takeaway:** Implementing military strategy is a political process. A president's ability to sustain a strategy depends on managing competing interpretations and maintaining sufficient institutional support, not simply choosing the militarily optimal course of action.
+
+---
+
+## Lesson Synthesis
+
+**Woodward:** Reconstructs the internal political and institutional struggle surrounding strategic reassessment.
+
+**Feaver:** Uses the surge decision to test competing models of civil-military relations and civilian control.
+
+**McHugh:** Compares Iraq and Afghanistan to demonstrate how domestic political conditions shape strategic decision-making and implementation.
+
+## Central Analytical Questions
+
+1. Why did senior civilian and military leaders disagree over the nature of the Iraq conflict?
+2. How did institutional commitments to the existing strategy affect reassessment?
+3. Were divisions primarily between civilian and military officials or within those groups?
+4. How did Bush generate alternative strategic options?
+5. Did formal national security decision-making processes function as intended?
+6. What role did informal advisers play?
+7. Was the surge decision an example of effective civilian control?
+8. How did domestic political pressures influence the Iraq and Afghanistan surge decisions?
+9. How should leaders distinguish between a failing strategy and failures of implementation?
+10. Did the president ultimately obtain the strategy he wanted?
+
+## Core Takeaway
+
+Strategic reassessment is simultaneously an intellectual, political, and organizational challenge.
+
+Leaders must recognize failure, diagnose its causes, generate viable alternatives, overcome institutional resistance, and mobilize sufficient support to implement a revised strategy.
+
+**Central lesson:** Good strategy requires an effective process for making strategy.
+
+---
+
+# Cross-Course Synthesis
+
+These two lessons examine different dimensions of the same strategic problem: how political actors manage violence when existing conditions resist their preferred outcomes.
+
+SEST 5000 examines why internal conflicts persist and why external intervention can fail.
+
+SEST 5001 examines how an intervening power recognizes strategic failure and attempts to redirect its military involvement.
+
+The shared analytical framework includes:
+
+- Credible commitments.
+- Institutional incentives.
+- Competing perceptions of conflict.
+- Domestic political constraints.
+- Civil-military relations.
+- The relationship between military operations and political objectives.
+
+**Combined takeaway:** Military intervention cannot be evaluated independently of the political and institutional mechanisms necessary to convert military action into sustainable strategic outcomes.
+
